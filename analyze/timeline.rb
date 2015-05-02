@@ -73,12 +73,16 @@ class Timeline
   def processDate(item)
     # Get start and end years
     start_year = item[@date_field[0]].split("-")[0].to_i
+    datearr = [start_year]
     if item[@date_field[1]]
       end_year = item[@date_field[1]].split("-")[0].to_i
-    else
+      datearr.push(end_year)
+    elsif item["current"] == "Yes"
       end_year = Time.now.to_s.split("-")[0].to_i
+      datearr.push(end_year)
+    else
+      end_year = start_year
     end
-    datearr = [start_year, end_year]
 
     # Get the years in between
     difference = start_year - end_year - 1

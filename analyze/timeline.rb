@@ -102,6 +102,6 @@ class Timeline
     JSON.pretty_generate(@outhash.sort)
   end
 end
-t = Timeline.new("_terms.json", ["NSA", "National Security Agency", "Central Security Service", "NSA/CSS"], ["start_date", "end_date"], "profile_url", ["description"], false)
+t = Timeline.new("_terms.json", ["SIGINT", "signals intelligence", "signals analysis", "signal analysis", "signal analyst", "signals analyst"], ["start_date", "end_date"], "profile_url", ["description"], false)
 t.timelineAll("/home/gh/data/disk/sigint/li_data")
 puts t.formatOutput

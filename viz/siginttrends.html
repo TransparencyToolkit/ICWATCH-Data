@@ -1,0 +1,43 @@
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="/viz/c3.min.css">
+  </head>
+  <body>
+    <div id="chart1"></div>
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <script src="/viz/c3.min.js"></script>
+    <script>
+
+      var years = new Array();
+      var vals = new Array();
+      d3.json('../results/siginttrends.json', function(error, data){
+      years[0] = 'x';
+      vals[0] = 'People working on SIGINT';
+        for(var z = 1; z <= data.length; z++){
+	  years[z] = data[z-1][0];
+	  vals[z] = data[z-1][1];
+        }
+      
+      
+      var chart1 = c3.generate({
+        bindto: '#chart1',
+	  data: {
+		x: 'x',
+	        columns: [
+		years,
+		vals
+               ],
+           },
+        axis: {
+	  x : {
+            tick: {
+              fit: true
+            }
+          }
+        }
+     });
+   });
+
+    </script>
+  </body>
+</html>

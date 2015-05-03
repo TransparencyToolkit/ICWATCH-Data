@@ -1,4 +1,6 @@
 require 'json'
+require 'pry'
+require 'date'
 
 class Timeline
   def initialize(ignore_incl, search_word, date_field, id_field, extract_field, case_sensitive)
@@ -75,9 +77,22 @@ class Timeline
     start_year = item[@date_field[0]].split("-")[0].to_i
     datearr = [start_year]
     if item[@date_field[1]]
-      end_year = item[@date_field[1]].split("-")[0].to_i
-      datearr.push(end_year)
-    elsif item["current"] == "Yes"
+      # Check that it isn't an impossible date (was before scraped) if not current
+      if item["current"] == "No"
+        endd = item[@date_field[1]].split("-")[0].to_i
+
+        # Add end dates only if not current year
+        if endd != Time.now.to_s.split("-")[0].to_i
+          end_year = item[@date_field[1]].split("-")[0].to_i
+          datearr.push(end_year)
+        else
+          end_year = start_year
+        end
+      else
+        end_year = item[@date_field[1]].split("-")[0].to_i
+        datearr.push(end_year)
+      end
+    elsif item["current"] == "Yes" # Get year for current positions
       end_year = Time.now.to_s.split("-")[0].to_i
       datearr.push(end_year)
     else

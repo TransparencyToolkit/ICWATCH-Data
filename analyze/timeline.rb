@@ -77,10 +77,11 @@ class Timeline
     start_year = item[@date_field[0]].split("-")[0].to_i
     datearr = [start_year]
     if item[@date_field[1]]
+      endd = item[@date_field[1]].split("-")[0].to_i
       # Check that it isn't an impossible date (was before scraped) if not current
-      if item["current"] == "No"
-        endd = item[@date_field[1]].split("-")[0].to_i
-
+      if endd.to_i > Time.now.to_s.split("-")[0].to_i || endd.to_i == 0 # Remove grossly incorrect dates
+        end_year = start_year
+      elsif item["current"] == "No"
         # Add end dates only if not current year
         if endd != Time.now.to_s.split("-")[0].to_i
           end_year = item[@date_field[1]].split("-")[0].to_i
@@ -121,6 +122,6 @@ class Timeline
     JSON.pretty_generate(@outhash.sort)
   end
 end
-t = Timeline.new("_terms.json", ["SIGINT", "signals intelligence", "signals analysis", "signal analysis", "signal analyst", "signals analyst"], ["start_date", "end_date"], "profile_url", ["description"], false)
+t = Timeline.new("_terms.json", ["SIGINT", "signals intelligence", "signals analysis", "signal analysis", "signal analyst", "signals analyst"], ["start_date", "end_date"], "profile_url", ["description", "title"], false)
 t.timelineAll("/home/gh/data/disk/sigint/li_data")
 puts t.formatOutput

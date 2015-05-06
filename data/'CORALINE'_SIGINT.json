@@ -1,0 +1,1026 @@
+[
+  {
+    "title": "IT System Engineer",
+    "company": "Benz Technology, Inc",
+    "description": "Primary Architect and Engineer for multiple Infrastructure as a Service (IaaS) VMware vSphere Solutions within local and geographically separated customer Data centers. Provided technical direction and development as to the type of complex hardware systems, interconnects, sustainability, and scalability to meet evolving customer needs. Provided redundancy design and integration to meet 100% up time of operational capabilities in comparison to hardware issues and failures. Conduct and document multiple redundancy analysis to mediate against risk of failed equipment and impact of scalability concerns. Initiate periodic reviews and testing of customers VMware Virtualization Infrastructure environment to mediate against security vulnerability concerns and life-cycle maintenance standards. Provide technical and design documentation to customer security engineers for a full Certification and Accreditation Process of multiple Virtualization Instances to receive operational approval. Configured and integrated a customer Citrix Xenapp solution to work in conjunction with a shared domain environment with the DoDIIS Trusted Workstation (DTW) project. Designed the solution to provide ease of upgrade and implementation of on demand software applications without downtime to end users. Provide technical usage and evaluation of existing and future Commercial of the Shelf (COTS) hardware to meet existing and future customer needs. Generate technical assessment of new equipment usage based off of end result requirements along with life-cycle maintenance while considering Data center impact of power, space, and cooling resources. Windows Server team member providing support for implementation, troubleshooting and maintenance of Information Technology (IT) systems. Configure and install multiple Windows server based operating systems and configurations based on customer specific needs and baseline modification deltas for problem resolution reduction and integration integrity.",
+    "start_date": "2010-03-01",
+    "end_date": "2015-03-09",
+    "linkedin_company_url": "http://www.linkedin.com/company/5943495?trk=ppro_cprof",
+    "industry": "Information Technology and Services",
+    "headquarters": "2305 S Clarksville Rd\nClarksville,\nOhio\n45113-9310\nUnited States",
+    "address": "2305 S Clarksville Rd Clarksville, Ohio 45113-9310 United States",
+    "skills": [
+      "VMware",
+      "Windows Server",
+      "Disaster Recovery",
+      "Virtualization",
+      "Data Center",
+      "VMware ESX",
+      "System Administration",
+      "Operating Systems",
+      "Active Directory",
+      "vSphere",
+      "VMware Infrastructure",
+      "Red Hat Linux",
+      "Citrix",
+      "Amazon Web Services...",
+      "Amazon EC2",
+      "Amazon EBS",
+      "Security Clearance",
+      "Cloud Computing",
+      "Citrix XenApp"
+    ],
+    "certifications": [
+
+    ],
+    "languages": [
+
+    ],
+    "name": "Tony Otis",
+    "location": "York",
+    "area": "Pennsylvania Area",
+    "picture": "https://static.licdn.com/scds/common/u/images/themes/katy/ghosts/person/ghost_person_150x150_v1.png",
+    "organizations": [
+
+    ],
+    "groups": [
+      {
+        "name": "VMware Certified Professional (VCP)",
+        "link": "http://www.linkedin.comhttp://www.linkedin.com/groups?gid=51214&goback=%2Enpp_tony*5otis%2F20%2F751%2F808&trk=fulpro_grplogo"
+      },
+      {
+        "name": "Cryptologic Technician (CT) Alumni",
+        "link": "http://www.linkedin.comhttp://www.linkedin.com/groups?gid=66926&goback=%2Enpp_tony*5otis%2F20%2F751%2F808&trk=fulpro_grplogo"
+      }
+    ],
+    "education": [
+      {
+        "name": "University of Maryland University College",
+        "description": "",
+        "period": "2001 – 2003"
+      },
+      {
+        "name": "University of Alaska Anchorage",
+        "description": "",
+        "period": "1998 – 2000"
+      },
+      {
+        "name": "Navy Class \"C\" School",
+        "description": "Navy NEC CTM-9226, Maintainer",
+        "period": "1998 – 1998"
+      },
+      {
+        "name": "Advanced Electronics Field School",
+        "description": "Advanced Electronics Field School - USN CTM",
+        "period": "1995 – 1996"
+      }
+    ],
+    "websites": [
+
+    ],
+    "profile_url": "http://www.linkedin.com/pub/tony-otis/20/751/808",
+    "current": "Yes",
+    "timestamp": "2015-03-13 17:48:08 +0100",
+    "related_people": [
+      {
+        "name": "Allen Shatzer",
+        "url": "http://www.linkedin.com/pub/allen-shatzer/1/809/767?trk=pub-pbmap"
+      },
+      {
+        "name": "Joshua Leung",
+        "url": "http://www.linkedin.com/pub/joshua-leung/18/65/20?trk=pub-pbmap"
+      },
+      {
+        "name": "Natalie Smolyak",
+        "url": "http://www.linkedin.com/pub/natalie-smolyak/16/3a8/b66?trk=pub-pbmap"
+      },
+      {
+        "name": "Jeff Hasenauer",
+        "url": "http://www.linkedin.com/pub/jeff-hasenauer/3/a46/271?trk=pub-pbmap"
+      },
+      {
+        "name": "Brian Levay",
+        "url": "http://www.linkedin.com/pub/brian-levay/2/434/433?trk=pub-pbmap"
+      },
+      {
+        "name": "Dan Ho",
+        "url": "http://www.linkedin.com/pub/dan-ho/a/62/246?trk=pub-pbmap"
+      },
+      {
+        "name": "Eric Tipton",
+        "url": "http://www.linkedin.com/pub/eric-tipton/1/5a/986?trk=pub-pbmap"
+      },
+      {
+        "name": "Isabel Berry",
+        "url": "http://www.linkedin.com/pub/isabel-berry/43/b99/1a6?trk=pub-pbmap"
+      },
+      {
+        "name": "Reno Manno",
+        "url": "http://www.linkedin.com/pub/reno-manno/10/3b5/b94?trk=pub-pbmap"
+      },
+      {
+        "name": "Joel Goldfinger",
+        "url": "http://www.linkedin.com/pub/joel-goldfinger/68/804/766?trk=pub-pbmap"
+      }
+    ],
+    "degree": 0,
+    "pic_path": "public/uploads/pictures/ghost_person_150x150_v1.png",
+    "url": null,
+    "website": null,
+    "type": null,
+    "company_size": null,
+    "founded": null,
+    "score": 0
+  },
+  {
+    "title": "IT System Engineer",
+    "company": "Zot, Inc.",
+    "description": "Architect and Engineer baselines and procedures for VMware VI3 & vSphere Integration scenarios based upon the Open Data Center Specification (ODCS). Develop implementation scenarios and processes consisting of various server platforms and supporting appliances for agency usage internal and external to the Enterprise Data Center. Member of a Configuration Change Board (CCB) mediating against baseline modifications in comparison to current usage and configuration, possible symptoms of service adjustments and potential impacts. Lead UNIX System Administrator for an IBM z/VM Mainframe project. Provisioned and maintained over 140 Red Hat Enterprise Linux (RHEL) virtualized server using the IBM s390x architecture. Defined baseline standards for internal services to include Apache / Tomcat web servers, MySQL, Perl, PHP, Samba, and Java extensions. Defined installation and upgrade procedures and documentation for consistent administration while adhering to project specific Server Level Agreements (SLA). Integrated a VMware VI3 Data center solution for the Washington County Maryland state hospital. Engineered solution leveraged from conducting a systems requirements reviews and existing hardware assessment. Developed several design alternatives to meet customer requirements leading to final design. Provided technical direction to existing IT staff on installation, setup, testing, and monitoring requirements. Developed site specific technical documentation for ongoing operation and maintenance, hardware and software life-cycle forecasts, redundancy and disaster recovery scenarios. Completed Proof of Concept analysis which lead to Physical to Virtual Migrations of over 40 critical assets allowing for increased resource load balancing and High Availability.",
+    "start_date": "2008-07-01",
+    "end_date": "2010-03-01",
+    "linkedin_company_url": "http://www.linkedin.com/company/1394591?trk=ppro_cprof",
+    "industry": "Information Technology and Services",
+    "headquarters": "6731 Columbia Gateway Drive, Ste 110\nSuite 245\nColumbia,\nMD\n21046\nUnited States",
+    "address": "6731 Columbia Gateway Drive, Ste 110 Suite 245 Columbia, MD 21046 United States",
+    "skills": [
+      "VMware",
+      "Windows Server",
+      "Disaster Recovery",
+      "Virtualization",
+      "Data Center",
+      "VMware ESX",
+      "System Administration",
+      "Operating Systems",
+      "Active Directory",
+      "vSphere",
+      "VMware Infrastructure",
+      "Red Hat Linux",
+      "Citrix",
+      "Amazon Web Services...",
+      "Amazon EC2",
+      "Amazon EBS",
+      "Security Clearance",
+      "Cloud Computing",
+      "Citrix XenApp"
+    ],
+    "certifications": [
+
+    ],
+    "languages": [
+
+    ],
+    "name": "Tony Otis",
+    "location": "York",
+    "area": "Pennsylvania Area",
+    "picture": "https://static.licdn.com/scds/common/u/images/themes/katy/ghosts/person/ghost_person_150x150_v1.png",
+    "organizations": [
+
+    ],
+    "groups": [
+      {
+        "name": "VMware Certified Professional (VCP)",
+        "link": "http://www.linkedin.comhttp://www.linkedin.com/groups?gid=51214&goback=%2Enpp_tony*5otis%2F20%2F751%2F808&trk=fulpro_grplogo"
+      },
+      {
+        "name": "Cryptologic Technician (CT) Alumni",
+        "link": "http://www.linkedin.comhttp://www.linkedin.com/groups?gid=66926&goback=%2Enpp_tony*5otis%2F20%2F751%2F808&trk=fulpro_grplogo"
+      }
+    ],
+    "education": [
+      {
+        "name": "University of Maryland University College",
+        "description": "",
+        "period": "2001 – 2003"
+      },
+      {
+        "name": "University of Alaska Anchorage",
+        "description": "",
+        "period": "1998 – 2000"
+      },
+      {
+        "name": "Navy Class \"C\" School",
+        "description": "Navy NEC CTM-9226, Maintainer",
+        "period": "1998 – 1998"
+      },
+      {
+        "name": "Advanced Electronics Field School",
+        "description": "Advanced Electronics Field School - USN CTM",
+        "period": "1995 – 1996"
+      }
+    ],
+    "websites": [
+
+    ],
+    "profile_url": "http://www.linkedin.com/pub/tony-otis/20/751/808",
+    "current": "No",
+    "timestamp": "2015-03-13 17:48:23 +0100",
+    "related_people": [
+      {
+        "name": "Allen Shatzer",
+        "url": "http://www.linkedin.com/pub/allen-shatzer/1/809/767?trk=pub-pbmap"
+      },
+      {
+        "name": "Joshua Leung",
+        "url": "http://www.linkedin.com/pub/joshua-leung/18/65/20?trk=pub-pbmap"
+      },
+      {
+        "name": "Natalie Smolyak",
+        "url": "http://www.linkedin.com/pub/natalie-smolyak/16/3a8/b66?trk=pub-pbmap"
+      },
+      {
+        "name": "Jeff Hasenauer",
+        "url": "http://www.linkedin.com/pub/jeff-hasenauer/3/a46/271?trk=pub-pbmap"
+      },
+      {
+        "name": "Brian Levay",
+        "url": "http://www.linkedin.com/pub/brian-levay/2/434/433?trk=pub-pbmap"
+      },
+      {
+        "name": "Dan Ho",
+        "url": "http://www.linkedin.com/pub/dan-ho/a/62/246?trk=pub-pbmap"
+      },
+      {
+        "name": "Eric Tipton",
+        "url": "http://www.linkedin.com/pub/eric-tipton/1/5a/986?trk=pub-pbmap"
+      },
+      {
+        "name": "Isabel Berry",
+        "url": "http://www.linkedin.com/pub/isabel-berry/43/b99/1a6?trk=pub-pbmap"
+      },
+      {
+        "name": "Reno Manno",
+        "url": "http://www.linkedin.com/pub/reno-manno/10/3b5/b94?trk=pub-pbmap"
+      },
+      {
+        "name": "Joel Goldfinger",
+        "url": "http://www.linkedin.com/pub/joel-goldfinger/68/804/766?trk=pub-pbmap"
+      }
+    ],
+    "degree": 0,
+    "pic_path": "public/uploads/pictures/ghost_person_150x150_v1.png",
+    "url": "http://www.zot.com",
+    "website": "http://www.zot.com",
+    "type": "Privately Held",
+    "company_size": "51-200 employees",
+    "founded": "1998",
+    "score": 0
+  },
+  {
+    "title": "IT Engineer",
+    "company": "Hewlett-Packard",
+    "description": "Designed and integrated multiple VMware Infrastructure 3 (VI3) data centers at local and remote customer facilities. Data centers utilize current ESX Server, VMware Virtual Center, VMware DRS / HA, and VMware Converter applications. Interconnected all clusters to back-end Netapp SAN storage appliances and Brocade FC Switch zoning for shared storage and migration capabilities. Developed production available templates for quick provision Microsoft Windows and Linux virtual server assets. Employed VMware Converter for physical-to-virtual migration of legacy servers to allow customers to reduce hardware footprints and power consumption, and increase Enterprise Service reliability and availability. Performed system administration duties for Windows Server domain and Linux RHEL environments to include initial builds, upgrades, patching, troubleshooting, and application integration. Microsoft SQL Server Database Administrator. Designed and developed back end relational database content for several forward facing services which ranged from Human Resource, Equipment Tracking, Knowledge Sharing, and Content distribution for customer community. Actively work and consulted with internal developers on schema design, code efficiency, and usage standards. Developed replication and availability across geographical data centers of over 200 databases and 30 Microsoft SQL servers to allow for increased availability and minimized downtime. Design and integrated replication functionality across multiple instances for data-driven site redundancies and disaster recoveries. Initiated database performance and tuning processes across all SQL Server instances for optimal performance and availability.",
+    "start_date": "2006-04-01",
+    "end_date": "2008-07-02",
+    "linkedin_company_url": "http://www.linkedin.com/company/1025?trk=ppro_cprof",
+    "industry": "Information Technology and Services",
+    "headquarters": "3000 Hanover Street\n\nPalo Alto,\nCalifornia\n94304\nUnited States",
+    "address": "3000 Hanover Street  Palo Alto, California 94304 United States",
+    "skills": [
+      "VMware",
+      "Windows Server",
+      "Disaster Recovery",
+      "Virtualization",
+      "Data Center",
+      "VMware ESX",
+      "System Administration",
+      "Operating Systems",
+      "Active Directory",
+      "vSphere",
+      "VMware Infrastructure",
+      "Red Hat Linux",
+      "Citrix",
+      "Amazon Web Services...",
+      "Amazon EC2",
+      "Amazon EBS",
+      "Security Clearance",
+      "Cloud Computing",
+      "Citrix XenApp"
+    ],
+    "certifications": [
+
+    ],
+    "languages": [
+
+    ],
+    "name": "Tony Otis",
+    "location": "York",
+    "area": "Pennsylvania Area",
+    "picture": "https://static.licdn.com/scds/common/u/images/themes/katy/ghosts/person/ghost_person_150x150_v1.png",
+    "organizations": [
+
+    ],
+    "groups": [
+      {
+        "name": "VMware Certified Professional (VCP)",
+        "link": "http://www.linkedin.comhttp://www.linkedin.com/groups?gid=51214&goback=%2Enpp_tony*5otis%2F20%2F751%2F808&trk=fulpro_grplogo"
+      },
+      {
+        "name": "Cryptologic Technician (CT) Alumni",
+        "link": "http://www.linkedin.comhttp://www.linkedin.com/groups?gid=66926&goback=%2Enpp_tony*5otis%2F20%2F751%2F808&trk=fulpro_grplogo"
+      }
+    ],
+    "education": [
+      {
+        "name": "University of Maryland University College",
+        "description": "",
+        "period": "2001 – 2003"
+      },
+      {
+        "name": "University of Alaska Anchorage",
+        "description": "",
+        "period": "1998 – 2000"
+      },
+      {
+        "name": "Navy Class \"C\" School",
+        "description": "Navy NEC CTM-9226, Maintainer",
+        "period": "1998 – 1998"
+      },
+      {
+        "name": "Advanced Electronics Field School",
+        "description": "Advanced Electronics Field School - USN CTM",
+        "period": "1995 – 1996"
+      }
+    ],
+    "websites": [
+
+    ],
+    "profile_url": "http://www.linkedin.com/pub/tony-otis/20/751/808",
+    "current": "No",
+    "timestamp": "2015-03-13 17:48:23 +0100",
+    "related_people": [
+      {
+        "name": "Allen Shatzer",
+        "url": "http://www.linkedin.com/pub/allen-shatzer/1/809/767?trk=pub-pbmap"
+      },
+      {
+        "name": "Joshua Leung",
+        "url": "http://www.linkedin.com/pub/joshua-leung/18/65/20?trk=pub-pbmap"
+      },
+      {
+        "name": "Natalie Smolyak",
+        "url": "http://www.linkedin.com/pub/natalie-smolyak/16/3a8/b66?trk=pub-pbmap"
+      },
+      {
+        "name": "Jeff Hasenauer",
+        "url": "http://www.linkedin.com/pub/jeff-hasenauer/3/a46/271?trk=pub-pbmap"
+      },
+      {
+        "name": "Brian Levay",
+        "url": "http://www.linkedin.com/pub/brian-levay/2/434/433?trk=pub-pbmap"
+      },
+      {
+        "name": "Dan Ho",
+        "url": "http://www.linkedin.com/pub/dan-ho/a/62/246?trk=pub-pbmap"
+      },
+      {
+        "name": "Eric Tipton",
+        "url": "http://www.linkedin.com/pub/eric-tipton/1/5a/986?trk=pub-pbmap"
+      },
+      {
+        "name": "Isabel Berry",
+        "url": "http://www.linkedin.com/pub/isabel-berry/43/b99/1a6?trk=pub-pbmap"
+      },
+      {
+        "name": "Reno Manno",
+        "url": "http://www.linkedin.com/pub/reno-manno/10/3b5/b94?trk=pub-pbmap"
+      },
+      {
+        "name": "Joel Goldfinger",
+        "url": "http://www.linkedin.com/pub/joel-goldfinger/68/804/766?trk=pub-pbmap"
+      }
+    ],
+    "degree": 0,
+    "pic_path": "public/uploads/pictures/ghost_person_150x150_v1.png",
+    "url": "http://www.hp.com",
+    "website": "http://www.hp.com",
+    "type": "Public Company",
+    "company_size": "10,001+ employees",
+    "founded": null,
+    "score": 0
+  },
+  {
+    "title": "System Administrator",
+    "company": "Centurum",
+    "description": "Designed, developed, integrated, and maintained a Knowledge Management (KM) solution for financial, contractual, and program information for a US Navy (USN) military command. Incorporated several Windows 2003 Enterprise Servers into existing domain environment utilizing SQL Server 2000, SharePoint Portal Server 2003, & Project Server 2003 software packages for over 200 end users. Directed an IT programming team to develop customized database driven web applications using SQL Server 2000, Active Server Pages (ASP), JavaScript, VB Script, ADO, CSS, and HTML. Integrated customized solutions into current network and military infrastructure with zero data loss or downtime. Established multiple customized Personnel Management and Inventory Control data-driven web sites meeting all contract requirements. Provided backup, upgrade, and maintenance documentation for full life cycle support. Analyzed current business processes to identify the best technical and functional solutions for the customer. Concatenated existing SQL Server 2000 databases into a single highly scalable and user friendly web application which reduced management and reporting time by 75%. Provided server maintenance, upgrade, and backup solutions resulting in 100% uptime. Published system administrator, training, user, and disaster recovery documentation for the KM project.",
+    "start_date": "2004-04-01",
+    "end_date": "2006-04-02",
+    "linkedin_company_url": "http://www.linkedin.com/company/51472?trk=ppro_cprof",
+    "industry": "Information Technology and Services",
+    "headquarters": null,
+    "address": null,
+    "skills": [
+      "VMware",
+      "Windows Server",
+      "Disaster Recovery",
+      "Virtualization",
+      "Data Center",
+      "VMware ESX",
+      "System Administration",
+      "Operating Systems",
+      "Active Directory",
+      "vSphere",
+      "VMware Infrastructure",
+      "Red Hat Linux",
+      "Citrix",
+      "Amazon Web Services...",
+      "Amazon EC2",
+      "Amazon EBS",
+      "Security Clearance",
+      "Cloud Computing",
+      "Citrix XenApp"
+    ],
+    "certifications": [
+
+    ],
+    "languages": [
+
+    ],
+    "name": "Tony Otis",
+    "location": "York",
+    "area": "Pennsylvania Area",
+    "picture": "https://static.licdn.com/scds/common/u/images/themes/katy/ghosts/person/ghost_person_150x150_v1.png",
+    "organizations": [
+
+    ],
+    "groups": [
+      {
+        "name": "VMware Certified Professional (VCP)",
+        "link": "http://www.linkedin.comhttp://www.linkedin.com/groups?gid=51214&goback=%2Enpp_tony*5otis%2F20%2F751%2F808&trk=fulpro_grplogo"
+      },
+      {
+        "name": "Cryptologic Technician (CT) Alumni",
+        "link": "http://www.linkedin.comhttp://www.linkedin.com/groups?gid=66926&goback=%2Enpp_tony*5otis%2F20%2F751%2F808&trk=fulpro_grplogo"
+      }
+    ],
+    "education": [
+      {
+        "name": "University of Maryland University College",
+        "description": "",
+        "period": "2001 – 2003"
+      },
+      {
+        "name": "University of Alaska Anchorage",
+        "description": "",
+        "period": "1998 – 2000"
+      },
+      {
+        "name": "Navy Class \"C\" School",
+        "description": "Navy NEC CTM-9226, Maintainer",
+        "period": "1998 – 1998"
+      },
+      {
+        "name": "Advanced Electronics Field School",
+        "description": "Advanced Electronics Field School - USN CTM",
+        "period": "1995 – 1996"
+      }
+    ],
+    "websites": [
+
+    ],
+    "profile_url": "http://www.linkedin.com/pub/tony-otis/20/751/808",
+    "current": "No",
+    "timestamp": "2015-03-13 17:48:23 +0100",
+    "related_people": [
+      {
+        "name": "Allen Shatzer",
+        "url": "http://www.linkedin.com/pub/allen-shatzer/1/809/767?trk=pub-pbmap"
+      },
+      {
+        "name": "Joshua Leung",
+        "url": "http://www.linkedin.com/pub/joshua-leung/18/65/20?trk=pub-pbmap"
+      },
+      {
+        "name": "Natalie Smolyak",
+        "url": "http://www.linkedin.com/pub/natalie-smolyak/16/3a8/b66?trk=pub-pbmap"
+      },
+      {
+        "name": "Jeff Hasenauer",
+        "url": "http://www.linkedin.com/pub/jeff-hasenauer/3/a46/271?trk=pub-pbmap"
+      },
+      {
+        "name": "Brian Levay",
+        "url": "http://www.linkedin.com/pub/brian-levay/2/434/433?trk=pub-pbmap"
+      },
+      {
+        "name": "Dan Ho",
+        "url": "http://www.linkedin.com/pub/dan-ho/a/62/246?trk=pub-pbmap"
+      },
+      {
+        "name": "Eric Tipton",
+        "url": "http://www.linkedin.com/pub/eric-tipton/1/5a/986?trk=pub-pbmap"
+      },
+      {
+        "name": "Isabel Berry",
+        "url": "http://www.linkedin.com/pub/isabel-berry/43/b99/1a6?trk=pub-pbmap"
+      },
+      {
+        "name": "Reno Manno",
+        "url": "http://www.linkedin.com/pub/reno-manno/10/3b5/b94?trk=pub-pbmap"
+      },
+      {
+        "name": "Joel Goldfinger",
+        "url": "http://www.linkedin.com/pub/joel-goldfinger/68/804/766?trk=pub-pbmap"
+      }
+    ],
+    "degree": 0,
+    "pic_path": "public/uploads/pictures/ghost_person_150x150_v1.png",
+    "url": "http://www.centurum.com",
+    "website": "http://www.centurum.com",
+    "type": "Privately Held",
+    "company_size": "201-500 employees",
+    "founded": "1969",
+    "score": 0
+  },
+  {
+    "title": "Cryptologic Technician - Maintenance (CTM)",
+    "company": "US Navy",
+    "description": "• Performed System Administrator duties on the LabLink Local Area Network (LAN) for NIWA and Navy Global Signal Analysis Laboratory (GSAL) program. Labs consisted of SUN & NT workstations, SUN Enterprise, & SUN Fire V880 servers. • Performed system backups, maintenance, and troubleshooting. Created system user accounts, conducted system audits, maintained DataTape inventory, and performed system security patches. • Developed LabLink system security plans & administrator guides. • Supervised IT staff in all maintenance aspects of the GSAL. Coordinated preventive/corrective maintenance procedures and test equipment calibration schedules. • Served as testing team member of several prototype Information Warfare attack systems in test-beds and real world environments abroad and afloat during war time scenario based readiness drills. • Verified and tested operational readiness of Electronic Attack systems on Navy surface and air platforms.",
+    "start_date": "2001-04-01",
+    "end_date": "2004-05-03",
+    "linkedin_company_url": "http://www.linkedin.com/company/1335?trk=ppro_cprof",
+    "industry": "Information Technology and Services",
+    "headquarters": "2000 Navy Pentagon\n\nWashington,\nDC\n20350\nUnited States",
+    "address": "2000 Navy Pentagon  Washington, DC 20350 United States",
+    "skills": [
+      "VMware",
+      "Windows Server",
+      "Disaster Recovery",
+      "Virtualization",
+      "Data Center",
+      "VMware ESX",
+      "System Administration",
+      "Operating Systems",
+      "Active Directory",
+      "vSphere",
+      "VMware Infrastructure",
+      "Red Hat Linux",
+      "Citrix",
+      "Amazon Web Services...",
+      "Amazon EC2",
+      "Amazon EBS",
+      "Security Clearance",
+      "Cloud Computing",
+      "Citrix XenApp"
+    ],
+    "certifications": [
+
+    ],
+    "languages": [
+
+    ],
+    "name": "Tony Otis",
+    "location": "York",
+    "area": "Pennsylvania Area",
+    "picture": "https://static.licdn.com/scds/common/u/images/themes/katy/ghosts/person/ghost_person_150x150_v1.png",
+    "organizations": [
+
+    ],
+    "groups": [
+      {
+        "name": "VMware Certified Professional (VCP)",
+        "link": "http://www.linkedin.comhttp://www.linkedin.com/groups?gid=51214&goback=%2Enpp_tony*5otis%2F20%2F751%2F808&trk=fulpro_grplogo"
+      },
+      {
+        "name": "Cryptologic Technician (CT) Alumni",
+        "link": "http://www.linkedin.comhttp://www.linkedin.com/groups?gid=66926&goback=%2Enpp_tony*5otis%2F20%2F751%2F808&trk=fulpro_grplogo"
+      }
+    ],
+    "education": [
+      {
+        "name": "University of Maryland University College",
+        "description": "",
+        "period": "2001 – 2003"
+      },
+      {
+        "name": "University of Alaska Anchorage",
+        "description": "",
+        "period": "1998 – 2000"
+      },
+      {
+        "name": "Navy Class \"C\" School",
+        "description": "Navy NEC CTM-9226, Maintainer",
+        "period": "1998 – 1998"
+      },
+      {
+        "name": "Advanced Electronics Field School",
+        "description": "Advanced Electronics Field School - USN CTM",
+        "period": "1995 – 1996"
+      }
+    ],
+    "websites": [
+
+    ],
+    "profile_url": "http://www.linkedin.com/pub/tony-otis/20/751/808",
+    "current": "No",
+    "timestamp": "2015-03-13 17:48:23 +0100",
+    "related_people": [
+      {
+        "name": "Allen Shatzer",
+        "url": "http://www.linkedin.com/pub/allen-shatzer/1/809/767?trk=pub-pbmap"
+      },
+      {
+        "name": "Joshua Leung",
+        "url": "http://www.linkedin.com/pub/joshua-leung/18/65/20?trk=pub-pbmap"
+      },
+      {
+        "name": "Natalie Smolyak",
+        "url": "http://www.linkedin.com/pub/natalie-smolyak/16/3a8/b66?trk=pub-pbmap"
+      },
+      {
+        "name": "Jeff Hasenauer",
+        "url": "http://www.linkedin.com/pub/jeff-hasenauer/3/a46/271?trk=pub-pbmap"
+      },
+      {
+        "name": "Brian Levay",
+        "url": "http://www.linkedin.com/pub/brian-levay/2/434/433?trk=pub-pbmap"
+      },
+      {
+        "name": "Dan Ho",
+        "url": "http://www.linkedin.com/pub/dan-ho/a/62/246?trk=pub-pbmap"
+      },
+      {
+        "name": "Eric Tipton",
+        "url": "http://www.linkedin.com/pub/eric-tipton/1/5a/986?trk=pub-pbmap"
+      },
+      {
+        "name": "Isabel Berry",
+        "url": "http://www.linkedin.com/pub/isabel-berry/43/b99/1a6?trk=pub-pbmap"
+      },
+      {
+        "name": "Reno Manno",
+        "url": "http://www.linkedin.com/pub/reno-manno/10/3b5/b94?trk=pub-pbmap"
+      },
+      {
+        "name": "Joel Goldfinger",
+        "url": "http://www.linkedin.com/pub/joel-goldfinger/68/804/766?trk=pub-pbmap"
+      }
+    ],
+    "degree": 0,
+    "pic_path": "public/uploads/pictures/ghost_person_150x150_v1.png",
+    "url": "http://www.navy.com/",
+    "website": "http://www.navy.com/",
+    "type": "Government Agency",
+    "company_size": "10,001+ employees",
+    "founded": "1775",
+    "score": 0
+  },
+  {
+    "title": "Cryptologic Technician - Maintenance (CTM)",
+    "company": "US Navy",
+    "description": "• Served as electronic maintenance supervisor for a forward deployable communication system. Maintained preventive maintenance scheduling system, corrective action history, and logistics tracking on all aspects of a Command and Control communication system. • Performed corrective and preventive maintenance on deployed Information Warfare systems at local host command and remote platforms. Provided electronic maintenance technical support on all Versa Module Europa (VME) chassis configurations and DEC processing capabilities. • Worked directly with government contractors for upgrade and configuration changes of baseline system. Performed Factory Acceptance Testing on all system modification and upgrades to determine compliance with initial contract and CONOP requirements. • Windows NT System/Network Administrator for Alaska command. Performed administration on all server roles, implemented network upgrades and patches, and provided trouble call/help desk support for 60 users.",
+    "start_date": "1998-05-01",
+    "end_date": "2001-04-03",
+    "linkedin_company_url": "http://www.linkedin.com/company/1335?trk=ppro_cprof",
+    "industry": "Information Technology and Services",
+    "headquarters": "2000 Navy Pentagon\n\nWashington,\nDC\n20350\nUnited States",
+    "address": "2000 Navy Pentagon  Washington, DC 20350 United States",
+    "skills": [
+      "VMware",
+      "Windows Server",
+      "Disaster Recovery",
+      "Virtualization",
+      "Data Center",
+      "VMware ESX",
+      "System Administration",
+      "Operating Systems",
+      "Active Directory",
+      "vSphere",
+      "VMware Infrastructure",
+      "Red Hat Linux",
+      "Citrix",
+      "Amazon Web Services...",
+      "Amazon EC2",
+      "Amazon EBS",
+      "Security Clearance",
+      "Cloud Computing",
+      "Citrix XenApp"
+    ],
+    "certifications": [
+
+    ],
+    "languages": [
+
+    ],
+    "name": "Tony Otis",
+    "location": "York",
+    "area": "Pennsylvania Area",
+    "picture": "https://static.licdn.com/scds/common/u/images/themes/katy/ghosts/person/ghost_person_150x150_v1.png",
+    "organizations": [
+
+    ],
+    "groups": [
+      {
+        "name": "VMware Certified Professional (VCP)",
+        "link": "http://www.linkedin.comhttp://www.linkedin.com/groups?gid=51214&goback=%2Enpp_tony*5otis%2F20%2F751%2F808&trk=fulpro_grplogo"
+      },
+      {
+        "name": "Cryptologic Technician (CT) Alumni",
+        "link": "http://www.linkedin.comhttp://www.linkedin.com/groups?gid=66926&goback=%2Enpp_tony*5otis%2F20%2F751%2F808&trk=fulpro_grplogo"
+      }
+    ],
+    "education": [
+      {
+        "name": "University of Maryland University College",
+        "description": "",
+        "period": "2001 – 2003"
+      },
+      {
+        "name": "University of Alaska Anchorage",
+        "description": "",
+        "period": "1998 – 2000"
+      },
+      {
+        "name": "Navy Class \"C\" School",
+        "description": "Navy NEC CTM-9226, Maintainer",
+        "period": "1998 – 1998"
+      },
+      {
+        "name": "Advanced Electronics Field School",
+        "description": "Advanced Electronics Field School - USN CTM",
+        "period": "1995 – 1996"
+      }
+    ],
+    "websites": [
+
+    ],
+    "profile_url": "http://www.linkedin.com/pub/tony-otis/20/751/808",
+    "current": "No",
+    "timestamp": "2015-03-13 17:48:23 +0100",
+    "related_people": [
+      {
+        "name": "Allen Shatzer",
+        "url": "http://www.linkedin.com/pub/allen-shatzer/1/809/767?trk=pub-pbmap"
+      },
+      {
+        "name": "Joshua Leung",
+        "url": "http://www.linkedin.com/pub/joshua-leung/18/65/20?trk=pub-pbmap"
+      },
+      {
+        "name": "Natalie Smolyak",
+        "url": "http://www.linkedin.com/pub/natalie-smolyak/16/3a8/b66?trk=pub-pbmap"
+      },
+      {
+        "name": "Jeff Hasenauer",
+        "url": "http://www.linkedin.com/pub/jeff-hasenauer/3/a46/271?trk=pub-pbmap"
+      },
+      {
+        "name": "Brian Levay",
+        "url": "http://www.linkedin.com/pub/brian-levay/2/434/433?trk=pub-pbmap"
+      },
+      {
+        "name": "Dan Ho",
+        "url": "http://www.linkedin.com/pub/dan-ho/a/62/246?trk=pub-pbmap"
+      },
+      {
+        "name": "Eric Tipton",
+        "url": "http://www.linkedin.com/pub/eric-tipton/1/5a/986?trk=pub-pbmap"
+      },
+      {
+        "name": "Isabel Berry",
+        "url": "http://www.linkedin.com/pub/isabel-berry/43/b99/1a6?trk=pub-pbmap"
+      },
+      {
+        "name": "Reno Manno",
+        "url": "http://www.linkedin.com/pub/reno-manno/10/3b5/b94?trk=pub-pbmap"
+      },
+      {
+        "name": "Joel Goldfinger",
+        "url": "http://www.linkedin.com/pub/joel-goldfinger/68/804/766?trk=pub-pbmap"
+      }
+    ],
+    "degree": 0,
+    "pic_path": "public/uploads/pictures/ghost_person_150x150_v1.png",
+    "url": "http://www.navy.com/",
+    "website": "http://www.navy.com/",
+    "type": "Government Agency",
+    "company_size": "10,001+ employees",
+    "founded": "1775",
+    "score": 0
+  },
+  {
+    "title": "Cryptologic Technician - Maintenance (CTM)",
+    "company": "US Navy",
+    "description": "• Maintenance technician at an overseas Naval SIGINT facility. Responsible for the corrective and preventive maintenance requirements on the commands High Frequency Direction Finding (HFDF) mission, Trans World Digital and CORALINE communication systems, and Remote Physical Security Detection System (RSSPS). • Selected to work alongside an install crew from a major defense contractor to install the 58 rack 36 node Trans World Digital system. Installed several million dollars of SIGINT communication equipment, created and connected a wide variety of cabling, and verified red line and engineer drawings. • Installed AIS LAN drops and workstations. Maintained system user accounts and responded to help desk trouble calls in Windows NT environment. Installed software, developed system security plans, and maintained magnetic media. • Performed hardware and software isolation and repair of electronic, computer, and network equipment. • Calibrated and repaired a wide variety of precision electronic test equipment. • Maintained Fleet Cryptologic permanent and carry-on direct support systems required in special land, sea surface, and subsurface operations. • Performed computer and electronic hardware and software installation, configuration, and modification.",
+    "start_date": "1995-06-01",
+    "end_date": "1998-05-03",
+    "linkedin_company_url": "http://www.linkedin.com/company/1335?trk=ppro_cprof",
+    "industry": "Information Technology and Services",
+    "headquarters": "2000 Navy Pentagon\n\nWashington,\nDC\n20350\nUnited States",
+    "address": "2000 Navy Pentagon  Washington, DC 20350 United States",
+    "skills": [
+      "VMware",
+      "Windows Server",
+      "Disaster Recovery",
+      "Virtualization",
+      "Data Center",
+      "VMware ESX",
+      "System Administration",
+      "Operating Systems",
+      "Active Directory",
+      "vSphere",
+      "VMware Infrastructure",
+      "Red Hat Linux",
+      "Citrix",
+      "Amazon Web Services...",
+      "Amazon EC2",
+      "Amazon EBS",
+      "Security Clearance",
+      "Cloud Computing",
+      "Citrix XenApp"
+    ],
+    "certifications": [
+
+    ],
+    "languages": [
+
+    ],
+    "name": "Tony Otis",
+    "location": "York",
+    "area": "Pennsylvania Area",
+    "picture": "https://static.licdn.com/scds/common/u/images/themes/katy/ghosts/person/ghost_person_150x150_v1.png",
+    "organizations": [
+
+    ],
+    "groups": [
+      {
+        "name": "VMware Certified Professional (VCP)",
+        "link": "http://www.linkedin.comhttp://www.linkedin.com/groups?gid=51214&goback=%2Enpp_tony*5otis%2F20%2F751%2F808&trk=fulpro_grplogo"
+      },
+      {
+        "name": "Cryptologic Technician (CT) Alumni",
+        "link": "http://www.linkedin.comhttp://www.linkedin.com/groups?gid=66926&goback=%2Enpp_tony*5otis%2F20%2F751%2F808&trk=fulpro_grplogo"
+      }
+    ],
+    "education": [
+      {
+        "name": "University of Maryland University College",
+        "description": "",
+        "period": "2001 – 2003"
+      },
+      {
+        "name": "University of Alaska Anchorage",
+        "description": "",
+        "period": "1998 – 2000"
+      },
+      {
+        "name": "Navy Class \"C\" School",
+        "description": "Navy NEC CTM-9226, Maintainer",
+        "period": "1998 – 1998"
+      },
+      {
+        "name": "Advanced Electronics Field School",
+        "description": "Advanced Electronics Field School - USN CTM",
+        "period": "1995 – 1996"
+      }
+    ],
+    "websites": [
+
+    ],
+    "profile_url": "http://www.linkedin.com/pub/tony-otis/20/751/808",
+    "current": "No",
+    "timestamp": "2015-03-13 17:48:23 +0100",
+    "related_people": [
+      {
+        "name": "Allen Shatzer",
+        "url": "http://www.linkedin.com/pub/allen-shatzer/1/809/767?trk=pub-pbmap"
+      },
+      {
+        "name": "Joshua Leung",
+        "url": "http://www.linkedin.com/pub/joshua-leung/18/65/20?trk=pub-pbmap"
+      },
+      {
+        "name": "Natalie Smolyak",
+        "url": "http://www.linkedin.com/pub/natalie-smolyak/16/3a8/b66?trk=pub-pbmap"
+      },
+      {
+        "name": "Jeff Hasenauer",
+        "url": "http://www.linkedin.com/pub/jeff-hasenauer/3/a46/271?trk=pub-pbmap"
+      },
+      {
+        "name": "Brian Levay",
+        "url": "http://www.linkedin.com/pub/brian-levay/2/434/433?trk=pub-pbmap"
+      },
+      {
+        "name": "Dan Ho",
+        "url": "http://www.linkedin.com/pub/dan-ho/a/62/246?trk=pub-pbmap"
+      },
+      {
+        "name": "Eric Tipton",
+        "url": "http://www.linkedin.com/pub/eric-tipton/1/5a/986?trk=pub-pbmap"
+      },
+      {
+        "name": "Isabel Berry",
+        "url": "http://www.linkedin.com/pub/isabel-berry/43/b99/1a6?trk=pub-pbmap"
+      },
+      {
+        "name": "Reno Manno",
+        "url": "http://www.linkedin.com/pub/reno-manno/10/3b5/b94?trk=pub-pbmap"
+      },
+      {
+        "name": "Joel Goldfinger",
+        "url": "http://www.linkedin.com/pub/joel-goldfinger/68/804/766?trk=pub-pbmap"
+      }
+    ],
+    "degree": 0,
+    "pic_path": "public/uploads/pictures/ghost_person_150x150_v1.png",
+    "url": "http://www.navy.com/",
+    "website": "http://www.navy.com/",
+    "type": "Government Agency",
+    "company_size": "10,001+ employees",
+    "founded": "1775",
+    "score": 0
+  },
+  {
+    "title": "Director of Programs",
+    "company": "Secured Sciences Group, LLC",
+    "description": null,
+    "start_date": null,
+    "end_date": null,
+    "linkedin_company_url": "http://www.linkedin.com/company/147655?trk=ppro_cprof",
+    "industry": "Information Technology and Services",
+    "headquarters": "United States",
+    "address": "United States",
+    "skills": [
+
+    ],
+    "certifications": [
+
+    ],
+    "languages": [
+
+    ],
+    "name": "Hector Marquez",
+    "location": "Washington D.C. Metro Area",
+    "area": "Washington D.C. Metro Area",
+    "picture": "https://static.licdn.com/scds/common/u/images/themes/katy/ghosts/person/ghost_person_150x150_v1.png",
+    "organizations": [
+
+    ],
+    "groups": [
+
+    ],
+    "education": [
+      {
+        "name": "Texas State University",
+        "description": "",
+        "period": "1969 – 1973"
+      }
+    ],
+    "websites": [
+
+    ],
+    "profile_url": "http://www.linkedin.com/pub/hector-marquez/4/739/86",
+    "current": "Yes",
+    "timestamp": "2015-03-13 17:48:30 +0100",
+    "related_people": [
+      {
+        "name": "Bill Eshelman",
+        "url": "http://www.linkedin.com/pub/bill-eshelman/4/9a3/293?trk=pub-pbmap"
+      },
+      {
+        "name": "Bill Wanovich",
+        "url": "http://www.linkedin.com/pub/bill-wanovich/97/968/a87?trk=pub-pbmap"
+      },
+      {
+        "name": "Azarias Reda",
+        "url": "http://www.linkedin.com/pub/azarias-reda/11/303/593?trk=pub-pbmap"
+      },
+      {
+        "name": "Darren Bolding",
+        "url": "http://www.linkedin.com/pub/darren-bolding/0/149/4b4?trk=pub-pbmap"
+      },
+      {
+        "name": "Aaron Abdullah",
+        "url": "http://www.linkedin.com/pub/aaron-abdullah/25/a83/356?trk=pub-pbmap"
+      },
+      {
+        "name": "Tammy Van Keuren",
+        "url": "http://www.linkedin.com/pub/tammy-van-keuren/3/b58/a39?trk=pub-pbmap"
+      },
+      {
+        "name": "Heidi Segal",
+        "url": "http://www.linkedin.com/pub/heidi-segal/a6/5b/ab8?trk=pub-pbmap"
+      },
+      {
+        "name": "Aaron Ariss",
+        "url": "http://www.linkedin.com/pub/aaron-ariss/99/647/744?trk=pub-pbmap"
+      },
+      {
+        "name": "Coraline Patterson",
+        "url": "http://www.linkedin.com/pub/coraline-patterson/3/276/a5a?trk=pub-pbmap"
+      },
+      {
+        "name": "Sarah Foley",
+        "url": "http://www.linkedin.com/pub/sarah-foley/51/a1/312?trk=pub-pbmap"
+      }
+    ],
+    "degree": 0,
+    "pic_path": "public/uploads/pictures/ghost_person_150x150_v1.png",
+    "url": null,
+    "website": null,
+    "type": "Privately Held",
+    "company_size": "1-10 employees",
+    "founded": null,
+    "score": 0
+  }
+]

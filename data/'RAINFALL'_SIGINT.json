@@ -1,0 +1,980 @@
+[
+  {
+    "title": "Lead Software Engineer",
+    "company": "Trimble Navigation",
+    "description": "- Lead engineer for multi-project integration effort providing fleet management of agricultural assets. - Familiarity with J1939 CAN Bus message parsing as well as handling proprietary OEM specific messaging (Case, New Holland, John Deere, AGCO, and other mixed fleet assets). - Designed and developed back-end high performance, dynamic GIS solution for providing imagery overlays from multiple source of agriculture GIS data including field coverage, crop health analysis (NDVI & Chlorophyll), rainfall, variable rate application of nutrients/materials, variable rate irrigation, and other information. - Developed expertise with binary and text data formats for Trimble and 3rd party agricultural data. - Produced a motion state correlation engine in order to provide customer reporting of efficiency and productivity by their operators / drivers. - Diagnosis and solutions engineer for production support issues in order to provide the highest amount of up-time possible for our customers. - Helped migrate systems to Amazon Web Services, utilizing technologies such as EC2, SNS, SES, Route53, S3, and others. - Coached junior to senior level engineers for insight on architecture, development, efficiency, and scalability.",
+    "start_date": "2013-09-01",
+    "end_date": "2015-03-16",
+    "linkedin_company_url": "http://www.linkedin.com/company/5160?trk=ppro_cprof",
+    "url": "http://www.trimble.com",
+    "website": "http://www.trimble.com",
+    "industry": "Electrical/Electronic Manufacturing",
+    "type": "Public Company",
+    "headquarters": "935 Stewart Drive\n\nSunnyvale,\nCA\n94085\nUnited States",
+    "company_size": "5001-10,000 employees",
+    "founded": "1978",
+    "address": "935 Stewart Drive  Sunnyvale, CA 94085 United States",
+    "skills": [
+      "Object Oriented Design",
+      "Perl",
+      "C#",
+      "C++",
+      "Java",
+      "Subversion",
+      "System Architecture",
+      "JavaScript",
+      "Software Engineering",
+      ".NET",
+      "ClearCase",
+      "Software Design",
+      "SOA",
+      "PHP",
+      "Windows System...",
+      "Systems Engineering",
+      "Configuration Management",
+      "C",
+      "SOAP",
+      "Integration",
+      "ASP.NET MVC",
+      "ASP.NET",
+      "Eclipse",
+      "Python",
+      "Linux",
+      "CORBA",
+      "GIS",
+      "ArcGIS",
+      "VMware",
+      "Powershell",
+      "AS9100",
+      "OODBMS",
+      "Fortify",
+      "Static Analysis",
+      "Visual Studio",
+      "WCF",
+      "Flex",
+      "TFS",
+      "JIRA",
+      "OnTime",
+      "Objectivity/DB",
+      "ArcObjects",
+      "MapObjects",
+      "Static Code Analysis",
+      "ActionScript",
+      "CVS",
+      "Windows Installer / MSI",
+      "MongoDB",
+      "Git",
+      "Test Driven Development"
+    ],
+    "certifications": [
+
+    ],
+    "languages": [
+
+    ],
+    "name": "Ryan Kuhn",
+    "location": "Greater Denver Area",
+    "area": "Greater Denver Area",
+    "picture": "https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/000/1f6/3b6/14e89b1.jpg",
+    "organizations": [
+      {
+        "name": "Connect1NG",
+        "start_date": "2012-01-01",
+        "end_date": "2012-12-01"
+      }
+    ],
+    "groups": [
+      {
+        "name": "Eagle's Nest--Eagle Scout Award Recipients",
+        "link": "http://www.linkedin.comhttp://www.linkedin.com/groups?gid=38692&goback=%2Enpp_ryan*5kuhn%2F33%2F231%2F10b&trk=fulpro_grplogo"
+      },
+      {
+        "name": "303Network",
+        "link": "http://www.linkedin.comhttp://www.linkedin.com/groups?gid=1458977&goback=%2Enpp_ryan*5kuhn%2F33%2F231%2F10b&trk=fulpro_grplogo"
+      }
+    ],
+    "education": [
+      {
+        "name": "University of Phoenix",
+        "description": "",
+        "period": "2013 – 2013"
+      },
+      {
+        "name": "University of Phoenix",
+        "description": "",
+        "period": "2004 – 2006"
+      },
+      {
+        "name": "George Mason University",
+        "description": "",
+        "period": "2000 – 2001"
+      }
+    ],
+    "websites": [
+      "http://kuhnboy.blogspot.com"
+    ],
+    "profile_url": "http://www.linkedin.com/pub/ryan-kuhn/33/231/10b",
+    "current": "Yes",
+    "timestamp": "2015-03-20 13:16:21 +0100",
+    "related_people": [
+      {
+        "name": "Alex Morais",
+        "url": "http://www.linkedin.com/pub/alex-morais/32/b2b/b32?trk=pub-pbmap"
+      },
+      {
+        "name": "Garrett St. John",
+        "url": "http://www.linkedin.com/pub/garrett-st-john/b3/795/3a5?trk=pub-pbmap"
+      },
+      {
+        "name": "Mike Morse",
+        "url": "http://www.linkedin.com/pub/mike-morse/a9/823/147?trk=pub-pbmap"
+      },
+      {
+        "name": "Sumner Evans",
+        "url": "http://www.linkedin.com/pub/sumner-evans/96/70/53?trk=pub-pbmap"
+      },
+      {
+        "name": "Chris Rowland",
+        "url": "http://www.linkedin.com/pub/chris-rowland/6/71a/a98?trk=pub-pbmap"
+      },
+      {
+        "name": "Randy Land",
+        "url": "http://www.linkedin.com/pub/randy-land/b/22/2a4?trk=pub-pbmap"
+      },
+      {
+        "name": "Aaron Abendroth",
+        "url": "http://www.linkedin.com/pub/aaron-abendroth/6/664/433?trk=pub-pbmap"
+      },
+      {
+        "name": "Matt Spaulding",
+        "url": "http://www.linkedin.com/pub/matt-spaulding/39/b3/889?trk=pub-pbmap"
+      },
+      {
+        "name": "Joshua Sullivan",
+        "url": "http://www.linkedin.com/pub/joshua-sullivan/68/32/b7?trk=pub-pbmap"
+      },
+      {
+        "name": "Tim Clark",
+        "url": "http://www.linkedin.com/pub/tim-clark/a/20b/336?trk=pub-pbmap"
+      }
+    ],
+    "degree": 0,
+    "pic_path": "public/uploads/pictures/14e89b1.jpg",
+    "score": 0
+  },
+  {
+    "title": "Instructor / Mentor",
+    "company": "Codementor.io",
+    "description": "- Mentored individuals worldwide to solve issue with existing code and architecture. - Tutored students to help understand course content and assignment completion. - Solved problems with quick response time and efficiency.",
+    "start_date": "2014-01-01",
+    "end_date": "2015-03-16",
+    "linkedin_company_url": "http://www.linkedin.com/",
+    "url": null,
+    "website": null,
+    "industry": "Electrical/Electronic Manufacturing",
+    "type": null,
+    "headquarters": null,
+    "company_size": null,
+    "founded": null,
+    "address": null,
+    "skills": [
+      "Object Oriented Design",
+      "Perl",
+      "C#",
+      "C++",
+      "Java",
+      "Subversion",
+      "System Architecture",
+      "JavaScript",
+      "Software Engineering",
+      ".NET",
+      "ClearCase",
+      "Software Design",
+      "SOA",
+      "PHP",
+      "Windows System...",
+      "Systems Engineering",
+      "Configuration Management",
+      "C",
+      "SOAP",
+      "Integration",
+      "ASP.NET MVC",
+      "ASP.NET",
+      "Eclipse",
+      "Python",
+      "Linux",
+      "CORBA",
+      "GIS",
+      "ArcGIS",
+      "VMware",
+      "Powershell",
+      "AS9100",
+      "OODBMS",
+      "Fortify",
+      "Static Analysis",
+      "Visual Studio",
+      "WCF",
+      "Flex",
+      "TFS",
+      "JIRA",
+      "OnTime",
+      "Objectivity/DB",
+      "ArcObjects",
+      "MapObjects",
+      "Static Code Analysis",
+      "ActionScript",
+      "CVS",
+      "Windows Installer / MSI",
+      "MongoDB",
+      "Git",
+      "Test Driven Development"
+    ],
+    "certifications": [
+
+    ],
+    "languages": [
+
+    ],
+    "name": "Ryan Kuhn",
+    "location": "Greater Denver Area",
+    "area": "Greater Denver Area",
+    "picture": "https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/000/1f6/3b6/14e89b1.jpg",
+    "organizations": [
+      {
+        "name": "Connect1NG",
+        "start_date": "2012-01-01",
+        "end_date": "2012-12-01"
+      }
+    ],
+    "groups": [
+      {
+        "name": "Eagle's Nest--Eagle Scout Award Recipients",
+        "link": "http://www.linkedin.comhttp://www.linkedin.com/groups?gid=38692&goback=%2Enpp_ryan*5kuhn%2F33%2F231%2F10b&trk=fulpro_grplogo"
+      },
+      {
+        "name": "303Network",
+        "link": "http://www.linkedin.comhttp://www.linkedin.com/groups?gid=1458977&goback=%2Enpp_ryan*5kuhn%2F33%2F231%2F10b&trk=fulpro_grplogo"
+      }
+    ],
+    "education": [
+      {
+        "name": "University of Phoenix",
+        "description": "",
+        "period": "2013 – 2013"
+      },
+      {
+        "name": "University of Phoenix",
+        "description": "",
+        "period": "2004 – 2006"
+      },
+      {
+        "name": "George Mason University",
+        "description": "",
+        "period": "2000 – 2001"
+      }
+    ],
+    "websites": [
+      "http://kuhnboy.blogspot.com"
+    ],
+    "profile_url": "http://www.linkedin.com/pub/ryan-kuhn/33/231/10b",
+    "current": "Yes",
+    "timestamp": "2015-03-20 13:16:22 +0100",
+    "related_people": [
+      {
+        "name": "Alex Morais",
+        "url": "http://www.linkedin.com/pub/alex-morais/32/b2b/b32?trk=pub-pbmap"
+      },
+      {
+        "name": "Garrett St. John",
+        "url": "http://www.linkedin.com/pub/garrett-st-john/b3/795/3a5?trk=pub-pbmap"
+      },
+      {
+        "name": "Mike Morse",
+        "url": "http://www.linkedin.com/pub/mike-morse/a9/823/147?trk=pub-pbmap"
+      },
+      {
+        "name": "Sumner Evans",
+        "url": "http://www.linkedin.com/pub/sumner-evans/96/70/53?trk=pub-pbmap"
+      },
+      {
+        "name": "Chris Rowland",
+        "url": "http://www.linkedin.com/pub/chris-rowland/6/71a/a98?trk=pub-pbmap"
+      },
+      {
+        "name": "Randy Land",
+        "url": "http://www.linkedin.com/pub/randy-land/b/22/2a4?trk=pub-pbmap"
+      },
+      {
+        "name": "Aaron Abendroth",
+        "url": "http://www.linkedin.com/pub/aaron-abendroth/6/664/433?trk=pub-pbmap"
+      },
+      {
+        "name": "Matt Spaulding",
+        "url": "http://www.linkedin.com/pub/matt-spaulding/39/b3/889?trk=pub-pbmap"
+      },
+      {
+        "name": "Joshua Sullivan",
+        "url": "http://www.linkedin.com/pub/joshua-sullivan/68/32/b7?trk=pub-pbmap"
+      },
+      {
+        "name": "Tim Clark",
+        "url": "http://www.linkedin.com/pub/tim-clark/a/20b/336?trk=pub-pbmap"
+      }
+    ],
+    "degree": 0,
+    "pic_path": "public/uploads/pictures/14e89b1.jpg",
+    "score": 0
+  },
+  {
+    "title": "Senior Software Engineer / Technical Lead",
+    "company": "Northrop Grumman Information Systems",
+    "description": "- Technical lead for Analyst Support Architecture which included tasking and mentoring of junior developers, developing schedules, proposals, estimates, and configuration management duties. - Advanced knowledge of SIGINT and IMINT data analysis and processing. - Managed code baseline of approximately 550k lines of code and was responsible for modernization of baseline from C++ to C#. - Developed WebAPI-style framework in 2005 for RPC communication between JavaScript and C# via SOAP web services using PHP + AJAX + JSON. - Expert with binary and text data formats, parsing, translation, and handled gigabytes of data per day running on low cost, budget laptops and desktops while providing correlation and analysis toolsets to run side-by-side. - Created Google-style map engine (when no other thin-client solutions were available and MapServer was not efficient enough in 2005) for a web interface supporting low-bandwidth users on a closed network. - Designed and developed front end with PHP and C# SOAP web services, JavaScript, HTML, icons, and layout. - Developed communication framework wrappers for WCF, decreasing - Created data ingest and output of handling multiple different text and binary data formats for high volumes of data. - Managed object-oriented database design and layout. - Created multi-threaded data correlation and processing architecture. - Managed UI development and design to support multiple GIS vendors including ESRI MapObjects and ArcGIS. - Created multi-threaded metadata view for end-user receipt of data for analysis using OpenMP. - Designed and maintained development network following DoD DSS accreditation guidelines as well as set up virtualized test and configuration management environments. - Performed analysis and executed solutions for Fortify Static Code Analysis in order to provide secure code to the customer. - Developed Windows Installers for products for zero configuration.",
+    "start_date": "2004-02-01",
+    "end_date": "2013-09-09",
+    "linkedin_company_url": "http://www.linkedin.com/company/1412?trk=ppro_cprof",
+    "url": "http://www.northropgrumman.com/",
+    "website": "http://www.northropgrumman.com/",
+    "industry": "Electrical/Electronic Manufacturing",
+    "type": "Public Company",
+    "headquarters": "2980 Fairview Park Dr\n\nFalls Church,\nVA\n22042\nUnited States",
+    "company_size": "10,001+ employees",
+    "founded": "1939",
+    "address": "2980 Fairview Park Dr  Falls Church, VA 22042 United States",
+    "skills": [
+      "Object Oriented Design",
+      "Perl",
+      "C#",
+      "C++",
+      "Java",
+      "Subversion",
+      "System Architecture",
+      "JavaScript",
+      "Software Engineering",
+      ".NET",
+      "ClearCase",
+      "Software Design",
+      "SOA",
+      "PHP",
+      "Windows System...",
+      "Systems Engineering",
+      "Configuration Management",
+      "C",
+      "SOAP",
+      "Integration",
+      "ASP.NET MVC",
+      "ASP.NET",
+      "Eclipse",
+      "Python",
+      "Linux",
+      "CORBA",
+      "GIS",
+      "ArcGIS",
+      "VMware",
+      "Powershell",
+      "AS9100",
+      "OODBMS",
+      "Fortify",
+      "Static Analysis",
+      "Visual Studio",
+      "WCF",
+      "Flex",
+      "TFS",
+      "JIRA",
+      "OnTime",
+      "Objectivity/DB",
+      "ArcObjects",
+      "MapObjects",
+      "Static Code Analysis",
+      "ActionScript",
+      "CVS",
+      "Windows Installer / MSI",
+      "MongoDB",
+      "Git",
+      "Test Driven Development"
+    ],
+    "certifications": [
+
+    ],
+    "languages": [
+
+    ],
+    "name": "Ryan Kuhn",
+    "location": "Greater Denver Area",
+    "area": "Greater Denver Area",
+    "picture": "https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/000/1f6/3b6/14e89b1.jpg",
+    "organizations": [
+      {
+        "name": "Connect1NG",
+        "start_date": "2012-01-01",
+        "end_date": "2012-12-01"
+      }
+    ],
+    "groups": [
+      {
+        "name": "Eagle's Nest--Eagle Scout Award Recipients",
+        "link": "http://www.linkedin.comhttp://www.linkedin.com/groups?gid=38692&goback=%2Enpp_ryan*5kuhn%2F33%2F231%2F10b&trk=fulpro_grplogo"
+      },
+      {
+        "name": "303Network",
+        "link": "http://www.linkedin.comhttp://www.linkedin.com/groups?gid=1458977&goback=%2Enpp_ryan*5kuhn%2F33%2F231%2F10b&trk=fulpro_grplogo"
+      }
+    ],
+    "education": [
+      {
+        "name": "University of Phoenix",
+        "description": "",
+        "period": "2013 – 2013"
+      },
+      {
+        "name": "University of Phoenix",
+        "description": "",
+        "period": "2004 – 2006"
+      },
+      {
+        "name": "George Mason University",
+        "description": "",
+        "period": "2000 – 2001"
+      }
+    ],
+    "websites": [
+      "http://kuhnboy.blogspot.com"
+    ],
+    "profile_url": "http://www.linkedin.com/pub/ryan-kuhn/33/231/10b",
+    "current": "No",
+    "timestamp": "2015-03-20 13:16:28 +0100",
+    "related_people": [
+      {
+        "name": "Alex Morais",
+        "url": "http://www.linkedin.com/pub/alex-morais/32/b2b/b32?trk=pub-pbmap"
+      },
+      {
+        "name": "Garrett St. John",
+        "url": "http://www.linkedin.com/pub/garrett-st-john/b3/795/3a5?trk=pub-pbmap"
+      },
+      {
+        "name": "Mike Morse",
+        "url": "http://www.linkedin.com/pub/mike-morse/a9/823/147?trk=pub-pbmap"
+      },
+      {
+        "name": "Sumner Evans",
+        "url": "http://www.linkedin.com/pub/sumner-evans/96/70/53?trk=pub-pbmap"
+      },
+      {
+        "name": "Chris Rowland",
+        "url": "http://www.linkedin.com/pub/chris-rowland/6/71a/a98?trk=pub-pbmap"
+      },
+      {
+        "name": "Randy Land",
+        "url": "http://www.linkedin.com/pub/randy-land/b/22/2a4?trk=pub-pbmap"
+      },
+      {
+        "name": "Aaron Abendroth",
+        "url": "http://www.linkedin.com/pub/aaron-abendroth/6/664/433?trk=pub-pbmap"
+      },
+      {
+        "name": "Matt Spaulding",
+        "url": "http://www.linkedin.com/pub/matt-spaulding/39/b3/889?trk=pub-pbmap"
+      },
+      {
+        "name": "Joshua Sullivan",
+        "url": "http://www.linkedin.com/pub/joshua-sullivan/68/32/b7?trk=pub-pbmap"
+      },
+      {
+        "name": "Tim Clark",
+        "url": "http://www.linkedin.com/pub/tim-clark/a/20b/336?trk=pub-pbmap"
+      }
+    ],
+    "degree": 0,
+    "pic_path": "public/uploads/pictures/14e89b1.jpg",
+    "score": 0
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Information Technoogy Applications Corporation",
+    "description": "- Maintained web based archival an retrieval project for users to retrieve national systems data. - Created web interface as a front end to a service oriented architecture in Java/JSP - Converted closed source CORBA SOA framework to a no-cost open source solution. - Developed user interface analysis tools with C++ and MFC.",
+    "start_date": "2001-09-01",
+    "end_date": "2004-02-02",
+    "linkedin_company_url": "http://www.linkedin.com/company/3959?trk=ppro_cprof",
+    "url": "http://www.rockwellcollins.com",
+    "website": "http://www.rockwellcollins.com",
+    "industry": "Electrical/Electronic Manufacturing",
+    "type": "Public Company",
+    "headquarters": "400 Collins Rd\n\nCedar Rapids,\nIowa\n52498\nUnited States",
+    "company_size": "10,001+ employees",
+    "founded": "1933",
+    "address": "400 Collins Rd  Cedar Rapids, Iowa 52498 United States",
+    "skills": [
+      "Object Oriented Design",
+      "Perl",
+      "C#",
+      "C++",
+      "Java",
+      "Subversion",
+      "System Architecture",
+      "JavaScript",
+      "Software Engineering",
+      ".NET",
+      "ClearCase",
+      "Software Design",
+      "SOA",
+      "PHP",
+      "Windows System...",
+      "Systems Engineering",
+      "Configuration Management",
+      "C",
+      "SOAP",
+      "Integration",
+      "ASP.NET MVC",
+      "ASP.NET",
+      "Eclipse",
+      "Python",
+      "Linux",
+      "CORBA",
+      "GIS",
+      "ArcGIS",
+      "VMware",
+      "Powershell",
+      "AS9100",
+      "OODBMS",
+      "Fortify",
+      "Static Analysis",
+      "Visual Studio",
+      "WCF",
+      "Flex",
+      "TFS",
+      "JIRA",
+      "OnTime",
+      "Objectivity/DB",
+      "ArcObjects",
+      "MapObjects",
+      "Static Code Analysis",
+      "ActionScript",
+      "CVS",
+      "Windows Installer / MSI",
+      "MongoDB",
+      "Git",
+      "Test Driven Development"
+    ],
+    "certifications": [
+
+    ],
+    "languages": [
+
+    ],
+    "name": "Ryan Kuhn",
+    "location": "Greater Denver Area",
+    "area": "Greater Denver Area",
+    "picture": "https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/000/1f6/3b6/14e89b1.jpg",
+    "organizations": [
+      {
+        "name": "Connect1NG",
+        "start_date": "2012-01-01",
+        "end_date": "2012-12-01"
+      }
+    ],
+    "groups": [
+      {
+        "name": "Eagle's Nest--Eagle Scout Award Recipients",
+        "link": "http://www.linkedin.comhttp://www.linkedin.com/groups?gid=38692&goback=%2Enpp_ryan*5kuhn%2F33%2F231%2F10b&trk=fulpro_grplogo"
+      },
+      {
+        "name": "303Network",
+        "link": "http://www.linkedin.comhttp://www.linkedin.com/groups?gid=1458977&goback=%2Enpp_ryan*5kuhn%2F33%2F231%2F10b&trk=fulpro_grplogo"
+      }
+    ],
+    "education": [
+      {
+        "name": "University of Phoenix",
+        "description": "",
+        "period": "2013 – 2013"
+      },
+      {
+        "name": "University of Phoenix",
+        "description": "",
+        "period": "2004 – 2006"
+      },
+      {
+        "name": "George Mason University",
+        "description": "",
+        "period": "2000 – 2001"
+      }
+    ],
+    "websites": [
+      "http://kuhnboy.blogspot.com"
+    ],
+    "profile_url": "http://www.linkedin.com/pub/ryan-kuhn/33/231/10b",
+    "current": "No",
+    "timestamp": "2015-03-20 13:16:28 +0100",
+    "related_people": [
+      {
+        "name": "Alex Morais",
+        "url": "http://www.linkedin.com/pub/alex-morais/32/b2b/b32?trk=pub-pbmap"
+      },
+      {
+        "name": "Garrett St. John",
+        "url": "http://www.linkedin.com/pub/garrett-st-john/b3/795/3a5?trk=pub-pbmap"
+      },
+      {
+        "name": "Mike Morse",
+        "url": "http://www.linkedin.com/pub/mike-morse/a9/823/147?trk=pub-pbmap"
+      },
+      {
+        "name": "Sumner Evans",
+        "url": "http://www.linkedin.com/pub/sumner-evans/96/70/53?trk=pub-pbmap"
+      },
+      {
+        "name": "Chris Rowland",
+        "url": "http://www.linkedin.com/pub/chris-rowland/6/71a/a98?trk=pub-pbmap"
+      },
+      {
+        "name": "Randy Land",
+        "url": "http://www.linkedin.com/pub/randy-land/b/22/2a4?trk=pub-pbmap"
+      },
+      {
+        "name": "Aaron Abendroth",
+        "url": "http://www.linkedin.com/pub/aaron-abendroth/6/664/433?trk=pub-pbmap"
+      },
+      {
+        "name": "Matt Spaulding",
+        "url": "http://www.linkedin.com/pub/matt-spaulding/39/b3/889?trk=pub-pbmap"
+      },
+      {
+        "name": "Joshua Sullivan",
+        "url": "http://www.linkedin.com/pub/joshua-sullivan/68/32/b7?trk=pub-pbmap"
+      },
+      {
+        "name": "Tim Clark",
+        "url": "http://www.linkedin.com/pub/tim-clark/a/20b/336?trk=pub-pbmap"
+      }
+    ],
+    "degree": 0,
+    "pic_path": "public/uploads/pictures/14e89b1.jpg",
+    "score": 0
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Naval Research Laboratory",
+    "description": "- Developed a web user interface for the Orbit/Covariance Estimation and Analysis using PHP, MySQL, and MATLAB for visualization and analysis of data. - Maintained and enhanced Orbit Analysis Tools software for Windows and MacOS to allow for visualization of satellite orbits with user provided ephemeris and TLE data. - Developed Perl scripts to communicate with remote ground sites and download differential GPS information to improve accuracy of geolocation.",
+    "start_date": "2000-05-01",
+    "end_date": "2001-08-01",
+    "linkedin_company_url": "http://www.linkedin.com/",
+    "url": null,
+    "website": null,
+    "industry": "Electrical/Electronic Manufacturing",
+    "type": null,
+    "headquarters": null,
+    "company_size": null,
+    "founded": null,
+    "address": null,
+    "skills": [
+      "Object Oriented Design",
+      "Perl",
+      "C#",
+      "C++",
+      "Java",
+      "Subversion",
+      "System Architecture",
+      "JavaScript",
+      "Software Engineering",
+      ".NET",
+      "ClearCase",
+      "Software Design",
+      "SOA",
+      "PHP",
+      "Windows System...",
+      "Systems Engineering",
+      "Configuration Management",
+      "C",
+      "SOAP",
+      "Integration",
+      "ASP.NET MVC",
+      "ASP.NET",
+      "Eclipse",
+      "Python",
+      "Linux",
+      "CORBA",
+      "GIS",
+      "ArcGIS",
+      "VMware",
+      "Powershell",
+      "AS9100",
+      "OODBMS",
+      "Fortify",
+      "Static Analysis",
+      "Visual Studio",
+      "WCF",
+      "Flex",
+      "TFS",
+      "JIRA",
+      "OnTime",
+      "Objectivity/DB",
+      "ArcObjects",
+      "MapObjects",
+      "Static Code Analysis",
+      "ActionScript",
+      "CVS",
+      "Windows Installer / MSI",
+      "MongoDB",
+      "Git",
+      "Test Driven Development"
+    ],
+    "certifications": [
+
+    ],
+    "languages": [
+
+    ],
+    "name": "Ryan Kuhn",
+    "location": "Greater Denver Area",
+    "area": "Greater Denver Area",
+    "picture": "https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/000/1f6/3b6/14e89b1.jpg",
+    "organizations": [
+      {
+        "name": "Connect1NG",
+        "start_date": "2012-01-01",
+        "end_date": "2012-12-01"
+      }
+    ],
+    "groups": [
+      {
+        "name": "Eagle's Nest--Eagle Scout Award Recipients",
+        "link": "http://www.linkedin.comhttp://www.linkedin.com/groups?gid=38692&goback=%2Enpp_ryan*5kuhn%2F33%2F231%2F10b&trk=fulpro_grplogo"
+      },
+      {
+        "name": "303Network",
+        "link": "http://www.linkedin.comhttp://www.linkedin.com/groups?gid=1458977&goback=%2Enpp_ryan*5kuhn%2F33%2F231%2F10b&trk=fulpro_grplogo"
+      }
+    ],
+    "education": [
+      {
+        "name": "University of Phoenix",
+        "description": "",
+        "period": "2013 – 2013"
+      },
+      {
+        "name": "University of Phoenix",
+        "description": "",
+        "period": "2004 – 2006"
+      },
+      {
+        "name": "George Mason University",
+        "description": "",
+        "period": "2000 – 2001"
+      }
+    ],
+    "websites": [
+      "http://kuhnboy.blogspot.com"
+    ],
+    "profile_url": "http://www.linkedin.com/pub/ryan-kuhn/33/231/10b",
+    "current": "No",
+    "timestamp": "2015-03-20 13:16:28 +0100",
+    "related_people": [
+      {
+        "name": "Alex Morais",
+        "url": "http://www.linkedin.com/pub/alex-morais/32/b2b/b32?trk=pub-pbmap"
+      },
+      {
+        "name": "Garrett St. John",
+        "url": "http://www.linkedin.com/pub/garrett-st-john/b3/795/3a5?trk=pub-pbmap"
+      },
+      {
+        "name": "Mike Morse",
+        "url": "http://www.linkedin.com/pub/mike-morse/a9/823/147?trk=pub-pbmap"
+      },
+      {
+        "name": "Sumner Evans",
+        "url": "http://www.linkedin.com/pub/sumner-evans/96/70/53?trk=pub-pbmap"
+      },
+      {
+        "name": "Chris Rowland",
+        "url": "http://www.linkedin.com/pub/chris-rowland/6/71a/a98?trk=pub-pbmap"
+      },
+      {
+        "name": "Randy Land",
+        "url": "http://www.linkedin.com/pub/randy-land/b/22/2a4?trk=pub-pbmap"
+      },
+      {
+        "name": "Aaron Abendroth",
+        "url": "http://www.linkedin.com/pub/aaron-abendroth/6/664/433?trk=pub-pbmap"
+      },
+      {
+        "name": "Matt Spaulding",
+        "url": "http://www.linkedin.com/pub/matt-spaulding/39/b3/889?trk=pub-pbmap"
+      },
+      {
+        "name": "Joshua Sullivan",
+        "url": "http://www.linkedin.com/pub/joshua-sullivan/68/32/b7?trk=pub-pbmap"
+      },
+      {
+        "name": "Tim Clark",
+        "url": "http://www.linkedin.com/pub/tim-clark/a/20b/336?trk=pub-pbmap"
+      }
+    ],
+    "degree": 0,
+    "pic_path": "public/uploads/pictures/14e89b1.jpg",
+    "score": 0
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Independent Software Engineer",
+    "description": "- Developed security software (access controls) for Windows 95/98 for independent sale and free use within the Fairfax County Public School system. - Wrote custom Windows 95/98 VxD device driver to create a virtual set of file system permissions and access.",
+    "start_date": "1998-01-01",
+    "end_date": null,
+    "linkedin_company_url": "http://www.linkedin.com/company/369428?trk=ppro_cprof",
+    "url": "http://www.lukejduncan.com",
+    "website": "http://www.lukejduncan.com",
+    "industry": "Electrical/Electronic Manufacturing",
+    "type": "Self-Employed",
+    "headquarters": "United States",
+    "company_size": "Myself Only",
+    "founded": null,
+    "address": "United States",
+    "skills": [
+      "Object Oriented Design",
+      "Perl",
+      "C#",
+      "C++",
+      "Java",
+      "Subversion",
+      "System Architecture",
+      "JavaScript",
+      "Software Engineering",
+      ".NET",
+      "ClearCase",
+      "Software Design",
+      "SOA",
+      "PHP",
+      "Windows System...",
+      "Systems Engineering",
+      "Configuration Management",
+      "C",
+      "SOAP",
+      "Integration",
+      "ASP.NET MVC",
+      "ASP.NET",
+      "Eclipse",
+      "Python",
+      "Linux",
+      "CORBA",
+      "GIS",
+      "ArcGIS",
+      "VMware",
+      "Powershell",
+      "AS9100",
+      "OODBMS",
+      "Fortify",
+      "Static Analysis",
+      "Visual Studio",
+      "WCF",
+      "Flex",
+      "TFS",
+      "JIRA",
+      "OnTime",
+      "Objectivity/DB",
+      "ArcObjects",
+      "MapObjects",
+      "Static Code Analysis",
+      "ActionScript",
+      "CVS",
+      "Windows Installer / MSI",
+      "MongoDB",
+      "Git",
+      "Test Driven Development"
+    ],
+    "certifications": [
+
+    ],
+    "languages": [
+
+    ],
+    "name": "Ryan Kuhn",
+    "location": "Greater Denver Area",
+    "area": "Greater Denver Area",
+    "picture": "https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/000/1f6/3b6/14e89b1.jpg",
+    "organizations": [
+      {
+        "name": "Connect1NG",
+        "start_date": "2012-01-01",
+        "end_date": "2012-12-01"
+      }
+    ],
+    "groups": [
+      {
+        "name": "Eagle's Nest--Eagle Scout Award Recipients",
+        "link": "http://www.linkedin.comhttp://www.linkedin.com/groups?gid=38692&goback=%2Enpp_ryan*5kuhn%2F33%2F231%2F10b&trk=fulpro_grplogo"
+      },
+      {
+        "name": "303Network",
+        "link": "http://www.linkedin.comhttp://www.linkedin.com/groups?gid=1458977&goback=%2Enpp_ryan*5kuhn%2F33%2F231%2F10b&trk=fulpro_grplogo"
+      }
+    ],
+    "education": [
+      {
+        "name": "University of Phoenix",
+        "description": "",
+        "period": "2013 – 2013"
+      },
+      {
+        "name": "University of Phoenix",
+        "description": "",
+        "period": "2004 – 2006"
+      },
+      {
+        "name": "George Mason University",
+        "description": "",
+        "period": "2000 – 2001"
+      }
+    ],
+    "websites": [
+      "http://kuhnboy.blogspot.com"
+    ],
+    "profile_url": "http://www.linkedin.com/pub/ryan-kuhn/33/231/10b",
+    "current": "No",
+    "timestamp": "2015-03-20 13:16:28 +0100",
+    "related_people": [
+      {
+        "name": "Alex Morais",
+        "url": "http://www.linkedin.com/pub/alex-morais/32/b2b/b32?trk=pub-pbmap"
+      },
+      {
+        "name": "Garrett St. John",
+        "url": "http://www.linkedin.com/pub/garrett-st-john/b3/795/3a5?trk=pub-pbmap"
+      },
+      {
+        "name": "Mike Morse",
+        "url": "http://www.linkedin.com/pub/mike-morse/a9/823/147?trk=pub-pbmap"
+      },
+      {
+        "name": "Sumner Evans",
+        "url": "http://www.linkedin.com/pub/sumner-evans/96/70/53?trk=pub-pbmap"
+      },
+      {
+        "name": "Chris Rowland",
+        "url": "http://www.linkedin.com/pub/chris-rowland/6/71a/a98?trk=pub-pbmap"
+      },
+      {
+        "name": "Randy Land",
+        "url": "http://www.linkedin.com/pub/randy-land/b/22/2a4?trk=pub-pbmap"
+      },
+      {
+        "name": "Aaron Abendroth",
+        "url": "http://www.linkedin.com/pub/aaron-abendroth/6/664/433?trk=pub-pbmap"
+      },
+      {
+        "name": "Matt Spaulding",
+        "url": "http://www.linkedin.com/pub/matt-spaulding/39/b3/889?trk=pub-pbmap"
+      },
+      {
+        "name": "Joshua Sullivan",
+        "url": "http://www.linkedin.com/pub/joshua-sullivan/68/32/b7?trk=pub-pbmap"
+      },
+      {
+        "name": "Tim Clark",
+        "url": "http://www.linkedin.com/pub/tim-clark/a/20b/336?trk=pub-pbmap"
+      }
+    ],
+    "degree": 0,
+    "pic_path": "public/uploads/pictures/14e89b1.jpg",
+    "score": 0
+  }
+]

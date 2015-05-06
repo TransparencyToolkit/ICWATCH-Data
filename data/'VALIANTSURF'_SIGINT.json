@@ -1,0 +1,330 @@
+[
+  {
+    "title": "Senior Software Engineer",
+    "company": "Systems & System Software Solutions, LLC.",
+    "description": "• Member of the METTLESOME Protocol Processing Team o Lead developer for METTWRAPPER; the METTLESOME interface to TURMOIL o Developed and integrated C++ protocol processing modules, to satisfy customer requirement o Implemented new C++ software functionality to satisfy customer requests o Worked with customers during integration to diagnose and correct problems o Developed C++ cppunit tests, and Linux shell-script component tests o Enhanced processing capability of a specific METTLESOME Session Processor to satisfy a customer request o Authored Version Description Documents(VDD) to document system operation o Gained experience with the Eclipse C++ software development environment o Worked with the Subversion (SVN) version control system • Supported the TURMOIL WingedFury applications team o Developed, tested, and delivered two C++ protocol processing plugins for the TURMOIL FIP architecture o Studied protocol RFCs and implemented software to extract and forward metadata fields of interest o Helped identify system requirements and worked closely with the team during development to ensure requirements were satisfied",
+    "start_date": "2011-11-01",
+    "end_date": "2013-11-02",
+    "linkedin_company_url": "http://www.linkedin.com/",
+    "skills": [
+
+    ],
+    "certifications": [
+
+    ],
+    "languages": [
+
+    ],
+    "name": "Eric Thomas",
+    "location": "Woodbine",
+    "area": "Maryland",
+    "industry": "Information Technology and Services",
+    "picture": "https://static.licdn.com/scds/common/u/images/themes/katy/ghosts/person/ghost_person_150x150_v1.png",
+    "organizations": [
+
+    ],
+    "groups": [
+
+    ],
+    "education": [
+      {
+        "name": "Southern Technical Institute",
+        "description": "B.S., Electrical Engineering Technology, Computer Systems, GPA: 3.6",
+        "period": "1981 – 1985"
+      }
+    ],
+    "websites": [
+
+    ],
+    "profile_url": "http://www.linkedin.com/pub/eric-thomas/8b/a56/b49",
+    "current": "No",
+    "timestamp": "2015-03-23 00:18:50 +0100",
+    "related_people": [
+      {
+        "name": "Steve Johnson",
+        "url": "http://www.linkedin.com/pub/steve-johnson/10/a53/13b?trk=pub-pbmap"
+      },
+      {
+        "name": "Ron Knight",
+        "url": "http://www.linkedin.com/pub/ron-knight/3/2a1/b74?trk=pub-pbmap"
+      },
+      {
+        "name": "Rob Uchuck",
+        "url": "http://www.linkedin.com/pub/rob-uchuck/0/55/70a?trk=pub-pbmap"
+      },
+      {
+        "name": "Chuck Svoboda",
+        "url": "http://www.linkedin.com/pub/chuck-svoboda/1/665/59b?trk=pub-pbmap"
+      },
+      {
+        "name": "William Byerly",
+        "url": "http://www.linkedin.com/pub/william-byerly/7/24b/a26?trk=pub-pbmap"
+      },
+      {
+        "name": "Bill Good",
+        "url": "http://www.linkedin.com/pub/bill-good/5/ab3/289?trk=pub-pbmap"
+      },
+      {
+        "name": "Chris Esposito",
+        "url": "http://www.linkedin.com/pub/chris-esposito/1/251/632?trk=pub-pbmap"
+      },
+      {
+        "name": "George Olean",
+        "url": "http://www.linkedin.com/pub/george-olean/23/324/bbb?trk=pub-pbmap"
+      },
+      {
+        "name": "Nick Cox",
+        "url": "http://www.linkedin.com/pub/nick-cox/19/69b/212?trk=pub-pbmap"
+      }
+    ],
+    "degree": 0,
+    "pic_path": "public/uploads/pictures/ghost_person_150x150_v1.png",
+    "score": 0
+  },
+  {
+    "title": "Senior Software Engineer",
+    "company": "Effective Software Solutions, Inc.",
+    "description": "• Member of the TURMOIL Applications Team o Developed C++ protocol processors for the TURMOIL system o Developed a unique protocol processor harness, which dynamically loaded user-configured processing modules at runtime o Developed several C++ Packet Processing Framework (PPF) components used in the protocol processing signal flow o End-to-end responsibility, including software design, implementation, testing, code release, documentation, and system integration o Developed C++ cppunit tests, and Linux shell-script component tests",
+    "start_date": "2010-04-01",
+    "end_date": "2011-10-01",
+    "linkedin_company_url": "http://www.linkedin.com/",
+    "skills": [
+
+    ],
+    "certifications": [
+
+    ],
+    "languages": [
+
+    ],
+    "name": "Eric Thomas",
+    "location": "Woodbine",
+    "area": "Maryland",
+    "industry": "Information Technology and Services",
+    "picture": "https://static.licdn.com/scds/common/u/images/themes/katy/ghosts/person/ghost_person_150x150_v1.png",
+    "organizations": [
+
+    ],
+    "groups": [
+
+    ],
+    "education": [
+      {
+        "name": "Southern Technical Institute",
+        "description": "B.S., Electrical Engineering Technology, Computer Systems, GPA: 3.6",
+        "period": "1981 – 1985"
+      }
+    ],
+    "websites": [
+
+    ],
+    "profile_url": "http://www.linkedin.com/pub/eric-thomas/8b/a56/b49",
+    "current": "No",
+    "timestamp": "2015-03-23 00:18:50 +0100",
+    "related_people": [
+      {
+        "name": "Steve Johnson",
+        "url": "http://www.linkedin.com/pub/steve-johnson/10/a53/13b?trk=pub-pbmap"
+      },
+      {
+        "name": "Ron Knight",
+        "url": "http://www.linkedin.com/pub/ron-knight/3/2a1/b74?trk=pub-pbmap"
+      },
+      {
+        "name": "Rob Uchuck",
+        "url": "http://www.linkedin.com/pub/rob-uchuck/0/55/70a?trk=pub-pbmap"
+      },
+      {
+        "name": "Chuck Svoboda",
+        "url": "http://www.linkedin.com/pub/chuck-svoboda/1/665/59b?trk=pub-pbmap"
+      },
+      {
+        "name": "William Byerly",
+        "url": "http://www.linkedin.com/pub/william-byerly/7/24b/a26?trk=pub-pbmap"
+      },
+      {
+        "name": "Bill Good",
+        "url": "http://www.linkedin.com/pub/bill-good/5/ab3/289?trk=pub-pbmap"
+      },
+      {
+        "name": "Chris Esposito",
+        "url": "http://www.linkedin.com/pub/chris-esposito/1/251/632?trk=pub-pbmap"
+      },
+      {
+        "name": "George Olean",
+        "url": "http://www.linkedin.com/pub/george-olean/23/324/bbb?trk=pub-pbmap"
+      },
+      {
+        "name": "Nick Cox",
+        "url": "http://www.linkedin.com/pub/nick-cox/19/69b/212?trk=pub-pbmap"
+      }
+    ],
+    "degree": 0,
+    "pic_path": "public/uploads/pictures/ghost_person_150x150_v1.png",
+    "score": 0
+  },
+  {
+    "title": "Senior Software Engineer",
+    "company": "ProObject, Inc.",
+    "description": "• Member of the TURMOIL VALIANTSURF Team o Developed several C++ PPF protocol processing components for TURMOIL o Utilized object-oriented software design methodologies o Developed cppunit tests and Bash shell-script component tests o Pioneered the integration of Atomic SIGINT Data Format (ASDF) metadata generation • Member of the GLAIVE Signals Development Team o Developed C software to recognize specific characteristics of various HF signals o Refactored legacy C code to object-oriented C++ o Gained JAVA programming experience in developing protocol processing software • Lead DSP developer for the in-house FIRSTSTRIKE application team o Designed the DSP subsystem architecture, co-designed the DSP-to-System Controller Communications Interface, and developed the complete DSP software processing package, using object-oriented design methodologies",
+    "start_date": "2001-04-01",
+    "end_date": "2010-05-09",
+    "linkedin_company_url": "http://www.linkedin.com/",
+    "skills": [
+
+    ],
+    "certifications": [
+
+    ],
+    "languages": [
+
+    ],
+    "name": "Eric Thomas",
+    "location": "Woodbine",
+    "area": "Maryland",
+    "industry": "Information Technology and Services",
+    "picture": "https://static.licdn.com/scds/common/u/images/themes/katy/ghosts/person/ghost_person_150x150_v1.png",
+    "organizations": [
+
+    ],
+    "groups": [
+
+    ],
+    "education": [
+      {
+        "name": "Southern Technical Institute",
+        "description": "B.S., Electrical Engineering Technology, Computer Systems, GPA: 3.6",
+        "period": "1981 – 1985"
+      }
+    ],
+    "websites": [
+
+    ],
+    "profile_url": "http://www.linkedin.com/pub/eric-thomas/8b/a56/b49",
+    "current": "No",
+    "timestamp": "2015-03-23 00:18:50 +0100",
+    "related_people": [
+      {
+        "name": "Steve Johnson",
+        "url": "http://www.linkedin.com/pub/steve-johnson/10/a53/13b?trk=pub-pbmap"
+      },
+      {
+        "name": "Ron Knight",
+        "url": "http://www.linkedin.com/pub/ron-knight/3/2a1/b74?trk=pub-pbmap"
+      },
+      {
+        "name": "Rob Uchuck",
+        "url": "http://www.linkedin.com/pub/rob-uchuck/0/55/70a?trk=pub-pbmap"
+      },
+      {
+        "name": "Chuck Svoboda",
+        "url": "http://www.linkedin.com/pub/chuck-svoboda/1/665/59b?trk=pub-pbmap"
+      },
+      {
+        "name": "William Byerly",
+        "url": "http://www.linkedin.com/pub/william-byerly/7/24b/a26?trk=pub-pbmap"
+      },
+      {
+        "name": "Bill Good",
+        "url": "http://www.linkedin.com/pub/bill-good/5/ab3/289?trk=pub-pbmap"
+      },
+      {
+        "name": "Chris Esposito",
+        "url": "http://www.linkedin.com/pub/chris-esposito/1/251/632?trk=pub-pbmap"
+      },
+      {
+        "name": "George Olean",
+        "url": "http://www.linkedin.com/pub/george-olean/23/324/bbb?trk=pub-pbmap"
+      },
+      {
+        "name": "Nick Cox",
+        "url": "http://www.linkedin.com/pub/nick-cox/19/69b/212?trk=pub-pbmap"
+      }
+    ],
+    "degree": 0,
+    "pic_path": "public/uploads/pictures/ghost_person_150x150_v1.png",
+    "score": 0
+  },
+  {
+    "title": "Senior Electronic Engineer",
+    "company": "National Security Agency",
+    "description": "• Worked in several engineering offices, and developed a history of successfully developing intelligence-producing systems that were deployed around the world. Some highlights include: o Worked in the Special Projects office, designing and developing collection systems for support of military operations o Acquired over 10 years of expertise in C programming on multiple projects o Gained initial experience in C++ programming, and object-oriented software design o Developed expertise in small scale, low power hardware design",
+    "start_date": "1985-04-01",
+    "end_date": "2001-04-16",
+    "linkedin_company_url": "http://www.linkedin.com/",
+    "skills": [
+
+    ],
+    "certifications": [
+
+    ],
+    "languages": [
+
+    ],
+    "name": "Eric Thomas",
+    "location": "Woodbine",
+    "area": "Maryland",
+    "industry": "Information Technology and Services",
+    "picture": "https://static.licdn.com/scds/common/u/images/themes/katy/ghosts/person/ghost_person_150x150_v1.png",
+    "organizations": [
+
+    ],
+    "groups": [
+
+    ],
+    "education": [
+      {
+        "name": "Southern Technical Institute",
+        "description": "B.S., Electrical Engineering Technology, Computer Systems, GPA: 3.6",
+        "period": "1981 – 1985"
+      }
+    ],
+    "websites": [
+
+    ],
+    "profile_url": "http://www.linkedin.com/pub/eric-thomas/8b/a56/b49",
+    "current": "No",
+    "timestamp": "2015-03-23 00:18:50 +0100",
+    "related_people": [
+      {
+        "name": "Steve Johnson",
+        "url": "http://www.linkedin.com/pub/steve-johnson/10/a53/13b?trk=pub-pbmap"
+      },
+      {
+        "name": "Ron Knight",
+        "url": "http://www.linkedin.com/pub/ron-knight/3/2a1/b74?trk=pub-pbmap"
+      },
+      {
+        "name": "Rob Uchuck",
+        "url": "http://www.linkedin.com/pub/rob-uchuck/0/55/70a?trk=pub-pbmap"
+      },
+      {
+        "name": "Chuck Svoboda",
+        "url": "http://www.linkedin.com/pub/chuck-svoboda/1/665/59b?trk=pub-pbmap"
+      },
+      {
+        "name": "William Byerly",
+        "url": "http://www.linkedin.com/pub/william-byerly/7/24b/a26?trk=pub-pbmap"
+      },
+      {
+        "name": "Bill Good",
+        "url": "http://www.linkedin.com/pub/bill-good/5/ab3/289?trk=pub-pbmap"
+      },
+      {
+        "name": "Chris Esposito",
+        "url": "http://www.linkedin.com/pub/chris-esposito/1/251/632?trk=pub-pbmap"
+      },
+      {
+        "name": "George Olean",
+        "url": "http://www.linkedin.com/pub/george-olean/23/324/bbb?trk=pub-pbmap"
+      },
+      {
+        "name": "Nick Cox",
+        "url": "http://www.linkedin.com/pub/nick-cox/19/69b/212?trk=pub-pbmap"
+      }
+    ],
+    "degree": 0,
+    "pic_path": "public/uploads/pictures/ghost_person_150x150_v1.png",
+    "score": 0
+  }
+]

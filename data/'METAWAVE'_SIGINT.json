@@ -1,0 +1,723 @@
+[
+  {
+    "title": "Signal Processing Engineer",
+    "company": "ATK",
+    "description": "Algorithm and software development for LTE and HSPA software modems.",
+    "start_date": "2011-01-01",
+    "end_date": null,
+    "linkedin_company_url": "http://www.linkedin.com/company/162574?trk=ppro_cprof",
+    "url": "http://www.orbitalatk.com",
+    "website": "http://www.orbitalatk.com",
+    "industry": "Defense & Space",
+    "type": "Public Company",
+    "headquarters": "45101 Warp Drive\n\nDulles,\nVirginia\n20166\nUnited States",
+    "company_size": "10,001+ employees",
+    "founded": "2015",
+    "address": "45101 Warp Drive  Dulles, Virginia 20166 United States",
+    "skills": [
+
+    ],
+    "certifications": [
+
+    ],
+    "languages": [
+
+    ],
+    "name": "Alan Nervig",
+    "location": "Odenton",
+    "area": "Maryland",
+    "picture": "https://static.licdn.com/scds/common/u/images/themes/katy/ghosts/person/ghost_person_150x150_v1.png",
+    "organizations": [
+
+    ],
+    "groups": [
+
+    ],
+    "education": [
+      {
+        "name": "Washington University in St. Louis",
+        "description": "",
+        "period": ""
+      },
+      {
+        "name": "University of Illinois at Urbana-Champaign",
+        "description": "",
+        "period": ""
+      },
+      {
+        "name": "Washington University in St. Louis",
+        "description": "",
+        "period": ""
+      }
+    ],
+    "websites": [
+
+    ],
+    "profile_url": "http://www.linkedin.com/pub/alan-nervig/66/a86/447",
+    "current": "Yes",
+    "timestamp": "2015-03-16 19:54:38 +0100",
+    "related_people": [
+      {
+        "name": "Sharon Deuel",
+        "url": "http://www.linkedin.com/pub/sharon-deuel/72/522/266?trk=pub-pbmap"
+      },
+      {
+        "name": "Janis Lynn Palmer",
+        "url": "http://www.linkedin.com/pub/janis-lynn-palmer/12/29a/562?trk=pub-pbmap"
+      },
+      {
+        "name": "John Hall",
+        "url": "http://www.linkedin.com/pub/john-hall/32/3bb/12a?trk=pub-pbmap"
+      },
+      {
+        "name": "Jim Ringrose",
+        "url": "http://www.linkedin.com/pub/jim-ringrose/52/72b/765?trk=pub-pbmap"
+      },
+      {
+        "name": "Steve Andrew",
+        "url": "http://www.linkedin.com/pub/steve-andrew/10/aab/236?trk=pub-pbmap"
+      },
+      {
+        "name": "Matt Lysaught",
+        "url": "http://www.linkedin.com/pub/matt-lysaught/4/142/a53?trk=pub-pbmap"
+      },
+      {
+        "name": "Alene Heuser",
+        "url": "http://www.linkedin.com/pub/alene-heuser/4/10b/717?trk=pub-pbmap"
+      },
+      {
+        "name": "Mark Webster",
+        "url": "http://www.linkedin.com/pub/mark-webster/7/769/7aa?trk=pub-pbmap"
+      },
+      {
+        "name": "Jeff White",
+        "url": "http://www.linkedin.com/pub/jeff-white/14/a66/378?trk=pub-pbmap"
+      },
+      {
+        "name": "Joe Petrone",
+        "url": "http://www.linkedin.com/pub/joe-petrone/4/608/171?trk=pub-pbmap"
+      }
+    ],
+    "degree": 0,
+    "pic_path": "public/uploads/pictures/ghost_person_150x150_v1.png",
+    "score": 0
+  },
+  {
+    "title": "Signal Processing Engineer",
+    "company": "Harris Corporation",
+    "description": "OFDM Demodulator Design - Responsible for designing demodulator for spread OFDM that is used for the purpose of interference mitigation. Multi-User Detection (MUD) design. In charge of algorithm development for a Turbo MUD receiver used in an asynchronous burst communications network. Involved iterative feedback processing between the trellis demodulation and Turbo code FEC. Low probability of detection (LPD) waveform and communications system design. In charge of baseband waveform design and detection vulnerability analysis for covert monitoring system. Modulation and demodulation/equalization design for satellite communications system. (TSAT, MILSTAR, XDR, XDR+). In charge of developing system’s demodulation and equalization algorithms. Exact bit level simulation and modeling. Developed first of kind, equalization technique for low BT, (<=1/6), GMSK waveforms. This trellis based technique allows for near MAP performance at a fraction of the complexity of MAP algorithms. Algorithm also makes possible the straightforward use of turbo equalization for low BT GMSK. Demodulation/Synchronization/Channel Estimation/Equalization for high speed terrestrial communications system involving simultaneous large delay spreads, large Doppler spreads, and large Doppler offsets. In charge of system simulation and in charge of identifying optimal linear digital feedback equalization (DFE) parameters over the space of possible physical channel conditions. GSM cell phone Demodulation/Channel Estimation/Equalization. In charge of modem design for cellular monitoring system. Exact bit level modeling and simulation. Evaluation of MIMO concepts for terrestrial communications systems.",
+    "start_date": "2003-01-01",
+    "end_date": null,
+    "linkedin_company_url": "http://www.linkedin.com/company/2067?trk=ppro_cprof",
+    "url": "http://www.harris.com",
+    "website": "http://www.harris.com",
+    "industry": "Defense & Space",
+    "type": "Public Company",
+    "headquarters": "1025 West NASA Boulevard\n\nMelbourne,\nFlorida\n32919\nUnited States",
+    "company_size": "10,001+ employees",
+    "founded": "1895",
+    "address": "1025 West NASA Boulevard  Melbourne, Florida 32919 United States",
+    "skills": [
+
+    ],
+    "certifications": [
+
+    ],
+    "languages": [
+
+    ],
+    "name": "Alan Nervig",
+    "location": "Odenton",
+    "area": "Maryland",
+    "picture": "https://static.licdn.com/scds/common/u/images/themes/katy/ghosts/person/ghost_person_150x150_v1.png",
+    "organizations": [
+
+    ],
+    "groups": [
+
+    ],
+    "education": [
+      {
+        "name": "Washington University in St. Louis",
+        "description": "",
+        "period": ""
+      },
+      {
+        "name": "University of Illinois at Urbana-Champaign",
+        "description": "",
+        "period": ""
+      },
+      {
+        "name": "Washington University in St. Louis",
+        "description": "",
+        "period": ""
+      }
+    ],
+    "websites": [
+
+    ],
+    "profile_url": "http://www.linkedin.com/pub/alan-nervig/66/a86/447",
+    "current": "No",
+    "timestamp": "2015-03-16 19:54:47 +0100",
+    "related_people": [
+      {
+        "name": "Sharon Deuel",
+        "url": "http://www.linkedin.com/pub/sharon-deuel/72/522/266?trk=pub-pbmap"
+      },
+      {
+        "name": "Janis Lynn Palmer",
+        "url": "http://www.linkedin.com/pub/janis-lynn-palmer/12/29a/562?trk=pub-pbmap"
+      },
+      {
+        "name": "John Hall",
+        "url": "http://www.linkedin.com/pub/john-hall/32/3bb/12a?trk=pub-pbmap"
+      },
+      {
+        "name": "Jim Ringrose",
+        "url": "http://www.linkedin.com/pub/jim-ringrose/52/72b/765?trk=pub-pbmap"
+      },
+      {
+        "name": "Steve Andrew",
+        "url": "http://www.linkedin.com/pub/steve-andrew/10/aab/236?trk=pub-pbmap"
+      },
+      {
+        "name": "Matt Lysaught",
+        "url": "http://www.linkedin.com/pub/matt-lysaught/4/142/a53?trk=pub-pbmap"
+      },
+      {
+        "name": "Alene Heuser",
+        "url": "http://www.linkedin.com/pub/alene-heuser/4/10b/717?trk=pub-pbmap"
+      },
+      {
+        "name": "Mark Webster",
+        "url": "http://www.linkedin.com/pub/mark-webster/7/769/7aa?trk=pub-pbmap"
+      },
+      {
+        "name": "Jeff White",
+        "url": "http://www.linkedin.com/pub/jeff-white/14/a66/378?trk=pub-pbmap"
+      },
+      {
+        "name": "Joe Petrone",
+        "url": "http://www.linkedin.com/pub/joe-petrone/4/608/171?trk=pub-pbmap"
+      }
+    ],
+    "degree": 0,
+    "pic_path": "public/uploads/pictures/ghost_person_150x150_v1.png",
+    "score": 0
+  },
+  {
+    "title": "Signal Processing Engineer",
+    "company": "NAVSYS Corporation",
+    "description": "Array processing for interference mitigation in GPS receivers. Simulation and jamming analysis for GPS receivers.",
+    "start_date": "2002-01-01",
+    "end_date": null,
+    "linkedin_company_url": "http://www.linkedin.com/company/40855?trk=ppro_cprof",
+    "url": "http://www.navsys.com",
+    "website": "http://www.navsys.com",
+    "industry": "Defense & Space",
+    "type": "Privately Held",
+    "headquarters": "14960 Woodcarver Road\n\nColorado Springs,\nColorado\n80921\nUnited States",
+    "company_size": "11-50 employees",
+    "founded": "1986",
+    "address": "14960 Woodcarver Road  Colorado Springs, Colorado 80921 United States",
+    "skills": [
+
+    ],
+    "certifications": [
+
+    ],
+    "languages": [
+
+    ],
+    "name": "Alan Nervig",
+    "location": "Odenton",
+    "area": "Maryland",
+    "picture": "https://static.licdn.com/scds/common/u/images/themes/katy/ghosts/person/ghost_person_150x150_v1.png",
+    "organizations": [
+
+    ],
+    "groups": [
+
+    ],
+    "education": [
+      {
+        "name": "Washington University in St. Louis",
+        "description": "",
+        "period": ""
+      },
+      {
+        "name": "University of Illinois at Urbana-Champaign",
+        "description": "",
+        "period": ""
+      },
+      {
+        "name": "Washington University in St. Louis",
+        "description": "",
+        "period": ""
+      }
+    ],
+    "websites": [
+
+    ],
+    "profile_url": "http://www.linkedin.com/pub/alan-nervig/66/a86/447",
+    "current": "No",
+    "timestamp": "2015-03-16 19:54:47 +0100",
+    "related_people": [
+      {
+        "name": "Sharon Deuel",
+        "url": "http://www.linkedin.com/pub/sharon-deuel/72/522/266?trk=pub-pbmap"
+      },
+      {
+        "name": "Janis Lynn Palmer",
+        "url": "http://www.linkedin.com/pub/janis-lynn-palmer/12/29a/562?trk=pub-pbmap"
+      },
+      {
+        "name": "John Hall",
+        "url": "http://www.linkedin.com/pub/john-hall/32/3bb/12a?trk=pub-pbmap"
+      },
+      {
+        "name": "Jim Ringrose",
+        "url": "http://www.linkedin.com/pub/jim-ringrose/52/72b/765?trk=pub-pbmap"
+      },
+      {
+        "name": "Steve Andrew",
+        "url": "http://www.linkedin.com/pub/steve-andrew/10/aab/236?trk=pub-pbmap"
+      },
+      {
+        "name": "Matt Lysaught",
+        "url": "http://www.linkedin.com/pub/matt-lysaught/4/142/a53?trk=pub-pbmap"
+      },
+      {
+        "name": "Alene Heuser",
+        "url": "http://www.linkedin.com/pub/alene-heuser/4/10b/717?trk=pub-pbmap"
+      },
+      {
+        "name": "Mark Webster",
+        "url": "http://www.linkedin.com/pub/mark-webster/7/769/7aa?trk=pub-pbmap"
+      },
+      {
+        "name": "Jeff White",
+        "url": "http://www.linkedin.com/pub/jeff-white/14/a66/378?trk=pub-pbmap"
+      },
+      {
+        "name": "Joe Petrone",
+        "url": "http://www.linkedin.com/pub/joe-petrone/4/608/171?trk=pub-pbmap"
+      }
+    ],
+    "degree": 0,
+    "pic_path": "public/uploads/pictures/ghost_person_150x150_v1.png",
+    "score": 0
+  },
+  {
+    "title": "Signal Processing Engineer",
+    "company": "Metawave",
+    "description": "Array processing for increasing capacity of 3G cellular base station downlink. In charge of developing algorithm to minimize downlink transmit energy while maintaining a match between the downlink data pattern and pilot pattern over the region of multi-path angular spread while accounting for uncertainty in the array manifold. Also responsible for guiding array design so that the resulting manifold was favorable to the pilot matching algorithm. Also developed antenna array design to increase robustness of uplink performance at sector boundaries. Switched beam algorithms for increased capacity for GSM base stations.",
+    "start_date": "2000-01-01",
+    "end_date": null,
+    "linkedin_company_url": "http://www.linkedin.com/",
+    "url": null,
+    "website": null,
+    "industry": "Defense & Space",
+    "type": null,
+    "headquarters": null,
+    "company_size": null,
+    "founded": null,
+    "address": null,
+    "skills": [
+
+    ],
+    "certifications": [
+
+    ],
+    "languages": [
+
+    ],
+    "name": "Alan Nervig",
+    "location": "Odenton",
+    "area": "Maryland",
+    "picture": "https://static.licdn.com/scds/common/u/images/themes/katy/ghosts/person/ghost_person_150x150_v1.png",
+    "organizations": [
+
+    ],
+    "groups": [
+
+    ],
+    "education": [
+      {
+        "name": "Washington University in St. Louis",
+        "description": "",
+        "period": ""
+      },
+      {
+        "name": "University of Illinois at Urbana-Champaign",
+        "description": "",
+        "period": ""
+      },
+      {
+        "name": "Washington University in St. Louis",
+        "description": "",
+        "period": ""
+      }
+    ],
+    "websites": [
+
+    ],
+    "profile_url": "http://www.linkedin.com/pub/alan-nervig/66/a86/447",
+    "current": "No",
+    "timestamp": "2015-03-16 19:54:47 +0100",
+    "related_people": [
+      {
+        "name": "Sharon Deuel",
+        "url": "http://www.linkedin.com/pub/sharon-deuel/72/522/266?trk=pub-pbmap"
+      },
+      {
+        "name": "Janis Lynn Palmer",
+        "url": "http://www.linkedin.com/pub/janis-lynn-palmer/12/29a/562?trk=pub-pbmap"
+      },
+      {
+        "name": "John Hall",
+        "url": "http://www.linkedin.com/pub/john-hall/32/3bb/12a?trk=pub-pbmap"
+      },
+      {
+        "name": "Jim Ringrose",
+        "url": "http://www.linkedin.com/pub/jim-ringrose/52/72b/765?trk=pub-pbmap"
+      },
+      {
+        "name": "Steve Andrew",
+        "url": "http://www.linkedin.com/pub/steve-andrew/10/aab/236?trk=pub-pbmap"
+      },
+      {
+        "name": "Matt Lysaught",
+        "url": "http://www.linkedin.com/pub/matt-lysaught/4/142/a53?trk=pub-pbmap"
+      },
+      {
+        "name": "Alene Heuser",
+        "url": "http://www.linkedin.com/pub/alene-heuser/4/10b/717?trk=pub-pbmap"
+      },
+      {
+        "name": "Mark Webster",
+        "url": "http://www.linkedin.com/pub/mark-webster/7/769/7aa?trk=pub-pbmap"
+      },
+      {
+        "name": "Jeff White",
+        "url": "http://www.linkedin.com/pub/jeff-white/14/a66/378?trk=pub-pbmap"
+      },
+      {
+        "name": "Joe Petrone",
+        "url": "http://www.linkedin.com/pub/joe-petrone/4/608/171?trk=pub-pbmap"
+      }
+    ],
+    "degree": 0,
+    "pic_path": "public/uploads/pictures/ghost_person_150x150_v1.png",
+    "score": 0
+  },
+  {
+    "title": "Signal Processing Engineer",
+    "company": "DRS Codem Systems",
+    "description": "Array processing for direction finding and interference mitigation for cell phone location and interception.",
+    "start_date": "1998-01-01",
+    "end_date": null,
+    "linkedin_company_url": "http://www.linkedin.com/company/63094?trk=ppro_cprof",
+    "url": "http://www.drs.com",
+    "website": "http://www.drs.com",
+    "industry": "Defense & Space",
+    "type": "Public Company",
+    "headquarters": "United States",
+    "company_size": "501-1000 employees",
+    "founded": null,
+    "address": "United States",
+    "skills": [
+
+    ],
+    "certifications": [
+
+    ],
+    "languages": [
+
+    ],
+    "name": "Alan Nervig",
+    "location": "Odenton",
+    "area": "Maryland",
+    "picture": "https://static.licdn.com/scds/common/u/images/themes/katy/ghosts/person/ghost_person_150x150_v1.png",
+    "organizations": [
+
+    ],
+    "groups": [
+
+    ],
+    "education": [
+      {
+        "name": "Washington University in St. Louis",
+        "description": "",
+        "period": ""
+      },
+      {
+        "name": "University of Illinois at Urbana-Champaign",
+        "description": "",
+        "period": ""
+      },
+      {
+        "name": "Washington University in St. Louis",
+        "description": "",
+        "period": ""
+      }
+    ],
+    "websites": [
+
+    ],
+    "profile_url": "http://www.linkedin.com/pub/alan-nervig/66/a86/447",
+    "current": "No",
+    "timestamp": "2015-03-16 19:54:47 +0100",
+    "related_people": [
+      {
+        "name": "Sharon Deuel",
+        "url": "http://www.linkedin.com/pub/sharon-deuel/72/522/266?trk=pub-pbmap"
+      },
+      {
+        "name": "Janis Lynn Palmer",
+        "url": "http://www.linkedin.com/pub/janis-lynn-palmer/12/29a/562?trk=pub-pbmap"
+      },
+      {
+        "name": "John Hall",
+        "url": "http://www.linkedin.com/pub/john-hall/32/3bb/12a?trk=pub-pbmap"
+      },
+      {
+        "name": "Jim Ringrose",
+        "url": "http://www.linkedin.com/pub/jim-ringrose/52/72b/765?trk=pub-pbmap"
+      },
+      {
+        "name": "Steve Andrew",
+        "url": "http://www.linkedin.com/pub/steve-andrew/10/aab/236?trk=pub-pbmap"
+      },
+      {
+        "name": "Matt Lysaught",
+        "url": "http://www.linkedin.com/pub/matt-lysaught/4/142/a53?trk=pub-pbmap"
+      },
+      {
+        "name": "Alene Heuser",
+        "url": "http://www.linkedin.com/pub/alene-heuser/4/10b/717?trk=pub-pbmap"
+      },
+      {
+        "name": "Mark Webster",
+        "url": "http://www.linkedin.com/pub/mark-webster/7/769/7aa?trk=pub-pbmap"
+      },
+      {
+        "name": "Jeff White",
+        "url": "http://www.linkedin.com/pub/jeff-white/14/a66/378?trk=pub-pbmap"
+      },
+      {
+        "name": "Joe Petrone",
+        "url": "http://www.linkedin.com/pub/joe-petrone/4/608/171?trk=pub-pbmap"
+      }
+    ],
+    "degree": 0,
+    "pic_path": "public/uploads/pictures/ghost_person_150x150_v1.png",
+    "score": 0
+  },
+  {
+    "title": "Signal Processing Engineer",
+    "company": "BAE Systems",
+    "description": "GSM modem design. Jamming analysis. ECM (Electronic Counter Measures)",
+    "start_date": "1997-01-01",
+    "end_date": null,
+    "linkedin_company_url": "http://www.linkedin.com/company/1882?trk=ppro_cprof",
+    "url": "http://www.baesystems.com",
+    "website": "http://www.baesystems.com",
+    "industry": "Defense & Space",
+    "type": "Public Company",
+    "headquarters": "BAE Systems\n6 Carlton Gardens\nLondon,\n\nSW1Y 5AD\nUnited Kingdom",
+    "company_size": "10,001+ employees",
+    "founded": "1999",
+    "address": "BAE Systems 6 Carlton Gardens London,  SW1Y 5AD United Kingdom",
+    "skills": [
+
+    ],
+    "certifications": [
+
+    ],
+    "languages": [
+
+    ],
+    "name": "Alan Nervig",
+    "location": "Odenton",
+    "area": "Maryland",
+    "picture": "https://static.licdn.com/scds/common/u/images/themes/katy/ghosts/person/ghost_person_150x150_v1.png",
+    "organizations": [
+
+    ],
+    "groups": [
+
+    ],
+    "education": [
+      {
+        "name": "Washington University in St. Louis",
+        "description": "",
+        "period": ""
+      },
+      {
+        "name": "University of Illinois at Urbana-Champaign",
+        "description": "",
+        "period": ""
+      },
+      {
+        "name": "Washington University in St. Louis",
+        "description": "",
+        "period": ""
+      }
+    ],
+    "websites": [
+
+    ],
+    "profile_url": "http://www.linkedin.com/pub/alan-nervig/66/a86/447",
+    "current": "No",
+    "timestamp": "2015-03-16 19:54:47 +0100",
+    "related_people": [
+      {
+        "name": "Sharon Deuel",
+        "url": "http://www.linkedin.com/pub/sharon-deuel/72/522/266?trk=pub-pbmap"
+      },
+      {
+        "name": "Janis Lynn Palmer",
+        "url": "http://www.linkedin.com/pub/janis-lynn-palmer/12/29a/562?trk=pub-pbmap"
+      },
+      {
+        "name": "John Hall",
+        "url": "http://www.linkedin.com/pub/john-hall/32/3bb/12a?trk=pub-pbmap"
+      },
+      {
+        "name": "Jim Ringrose",
+        "url": "http://www.linkedin.com/pub/jim-ringrose/52/72b/765?trk=pub-pbmap"
+      },
+      {
+        "name": "Steve Andrew",
+        "url": "http://www.linkedin.com/pub/steve-andrew/10/aab/236?trk=pub-pbmap"
+      },
+      {
+        "name": "Matt Lysaught",
+        "url": "http://www.linkedin.com/pub/matt-lysaught/4/142/a53?trk=pub-pbmap"
+      },
+      {
+        "name": "Alene Heuser",
+        "url": "http://www.linkedin.com/pub/alene-heuser/4/10b/717?trk=pub-pbmap"
+      },
+      {
+        "name": "Mark Webster",
+        "url": "http://www.linkedin.com/pub/mark-webster/7/769/7aa?trk=pub-pbmap"
+      },
+      {
+        "name": "Jeff White",
+        "url": "http://www.linkedin.com/pub/jeff-white/14/a66/378?trk=pub-pbmap"
+      },
+      {
+        "name": "Joe Petrone",
+        "url": "http://www.linkedin.com/pub/joe-petrone/4/608/171?trk=pub-pbmap"
+      }
+    ],
+    "degree": 0,
+    "pic_path": "public/uploads/pictures/ghost_person_150x150_v1.png",
+    "score": 0
+  },
+  {
+    "title": "Signal Processing Engineer",
+    "company": "MITRE",
+    "description": "LPD (Low Probability of Detection) waveform analysis and design, for direct sequence, frequency hopping and OFDM systems. Analysis of waveform cyclostationary properties. Responsible for characterizing detection vulnerability of various vendor communications systems and for recommending waveform modifications. SIGINT (Signals Intelligence) Array processing algorithm for robust interference mitigation for over the horizon HF communications system. In charge of developing an interference canceling algorithm that is robust to angle of arrival uncertainty for the signal of interest. Infrared and SAR image processing for target detection.",
+    "start_date": "1990-01-01",
+    "end_date": null,
+    "linkedin_company_url": "http://www.linkedin.com/company/3848?trk=ppro_cprof",
+    "url": "http://www.mitre.org",
+    "website": "http://www.mitre.org",
+    "industry": "Defense & Space",
+    "type": "Nonprofit",
+    "headquarters": null,
+    "company_size": "5001-10,000 employees",
+    "founded": "1958",
+    "address": null,
+    "skills": [
+
+    ],
+    "certifications": [
+
+    ],
+    "languages": [
+
+    ],
+    "name": "Alan Nervig",
+    "location": "Odenton",
+    "area": "Maryland",
+    "picture": "https://static.licdn.com/scds/common/u/images/themes/katy/ghosts/person/ghost_person_150x150_v1.png",
+    "organizations": [
+
+    ],
+    "groups": [
+
+    ],
+    "education": [
+      {
+        "name": "Washington University in St. Louis",
+        "description": "",
+        "period": ""
+      },
+      {
+        "name": "University of Illinois at Urbana-Champaign",
+        "description": "",
+        "period": ""
+      },
+      {
+        "name": "Washington University in St. Louis",
+        "description": "",
+        "period": ""
+      }
+    ],
+    "websites": [
+
+    ],
+    "profile_url": "http://www.linkedin.com/pub/alan-nervig/66/a86/447",
+    "current": "No",
+    "timestamp": "2015-03-16 19:54:47 +0100",
+    "related_people": [
+      {
+        "name": "Sharon Deuel",
+        "url": "http://www.linkedin.com/pub/sharon-deuel/72/522/266?trk=pub-pbmap"
+      },
+      {
+        "name": "Janis Lynn Palmer",
+        "url": "http://www.linkedin.com/pub/janis-lynn-palmer/12/29a/562?trk=pub-pbmap"
+      },
+      {
+        "name": "John Hall",
+        "url": "http://www.linkedin.com/pub/john-hall/32/3bb/12a?trk=pub-pbmap"
+      },
+      {
+        "name": "Jim Ringrose",
+        "url": "http://www.linkedin.com/pub/jim-ringrose/52/72b/765?trk=pub-pbmap"
+      },
+      {
+        "name": "Steve Andrew",
+        "url": "http://www.linkedin.com/pub/steve-andrew/10/aab/236?trk=pub-pbmap"
+      },
+      {
+        "name": "Matt Lysaught",
+        "url": "http://www.linkedin.com/pub/matt-lysaught/4/142/a53?trk=pub-pbmap"
+      },
+      {
+        "name": "Alene Heuser",
+        "url": "http://www.linkedin.com/pub/alene-heuser/4/10b/717?trk=pub-pbmap"
+      },
+      {
+        "name": "Mark Webster",
+        "url": "http://www.linkedin.com/pub/mark-webster/7/769/7aa?trk=pub-pbmap"
+      },
+      {
+        "name": "Jeff White",
+        "url": "http://www.linkedin.com/pub/jeff-white/14/a66/378?trk=pub-pbmap"
+      },
+      {
+        "name": "Joe Petrone",
+        "url": "http://www.linkedin.com/pub/joe-petrone/4/608/171?trk=pub-pbmap"
+      }
+    ],
+    "degree": 0,
+    "pic_path": "public/uploads/pictures/ghost_person_150x150_v1.png",
+    "score": 0
+  }
+]

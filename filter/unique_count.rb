@@ -29,5 +29,5 @@ class UniqueCount
   end
 end
 u = UniqueCount.new("profile_url", "_terms.json")
-u.getAll("/home/gh/data/disk/sigint/li_data")
+u.getAll("../data")
 puts u.getCount

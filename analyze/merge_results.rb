@@ -86,8 +86,8 @@ class MergeResults
   end
 end
 
-m = MergeResults.new("/home/shidash/Data/ICWATCH-Data/analyze/test_merge.json", {
-                       "SIGINT" => ["signals intelligence", "SIGINT"],
-                       "Intercept" => ["intercept", "interception"],
-                       "xkeyscore" => ["xkeyscore", "xks"]}, "crossreference_merge")
-puts m.merge
+#m = MergeResults.new("/home/shidash/Data/ICWATCH-Data/analyze/test_merge.json", {
+ #                      "SIGINT" => ["signals intelligence", "SIGINT"],
+  #                     "Intercept" => ["intercept", "interception"],
+   #                    "xkeyscore" => ["xkeyscore", "xks"]}, "crossreference_merge")
+#puts m.merge

@@ -28,6 +28,6 @@ class UniqueCount
     @profile_list.length
   end
 end
-u = UniqueCount.new("profile_url", "_terms.json")
-u.getAll("../data")
+u = UniqueCount.new("url", "_terms.json")
+u.getAll("../../indeed_fix_test/smaller")
 puts u.getCount
